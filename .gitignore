@@ -1,0 +1,31 @@
+# Compiled executables
+*.exe
+*.out
+student_system
+studentSystem
+
+# Object files
+*.o
+*.obj
+
+# Generated CSV files (optional - remove this line if you want to include students.csv)
+# students.csv
+# export.csv
+
+# IDE files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
