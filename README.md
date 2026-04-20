@@ -29,6 +29,7 @@ This project implements a student information system for Aksum University using 
 │   └── DataGenerator.h     — Data generator header
 ├── screenshots/            — Program execution screenshots
 ├── Report/                 — Project documentation
+├── .gitattributes          — Forces GitHub to recognize project as 100% C++
 ├── Makefile               — Build configuration
 ├── README.md              — This documentation
 └── students.csv           — Auto-generated dataset
@@ -41,6 +42,21 @@ This project implements a student information system for Aksum University using 
 make
 make run
 ```
+
+### Manual (Linux/Mac)
+```bash
+g++ -std=c++11 -Iinclude -o student_system src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
+./student_system
+```
+
+### Windows (MinGW)
+```bash
+g++ -std=c++11 -Iinclude -o student_system.exe src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
+student_system.exe
+```
+
+## Language Detection
+This project uses `.gitattributes` to ensure GitHub recognizes it as **100% C++** by excluding documentation and configuration files from language statistics.
 
 ### Manual (Linux/Mac)
 ```bash
@@ -132,17 +148,21 @@ Speedup: 56.67x faster
 
 ## Screenshots
 
-### Program Execution
+### 1. Program Header & Initialization
 ![Program Header](screenshots/program-start.png)
+*Initial program startup showing Aksum University branding and data generation*
 
-### Performance Comparison Results
+### 2. Performance Benchmark Results
 ![Performance Results](screenshots/performance-results.png)
+*Hash table vs Linear search performance comparison with timing analysis*
 
-### Interactive Menu
+### 3. Interactive Menu System
 ![Interactive Menu](screenshots/menu.png)
+*Main menu interface for CRUD operations and system management*
 
-### Hash Table Display
+### 4. Hash Table Statistics & Analysis
 ![Hash Table Output](screenshots/hash-table-output.png)
+*Load factor analysis, collision statistics, and mathematical breakdown*
 
 ## Mathematical Analysis
 
