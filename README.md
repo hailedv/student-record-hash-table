@@ -167,5 +167,3 @@ The hash table with chaining provides significantly better performance than line
 ## Author
 Aksum University — Department of Computer Science and Software Engineering
 Design and Analysis of Algorithms Project — Q5: Hashing with Collision Handling
-
-Group Members: Haile Gebremichael (1601860), Abel Tkabo (1603323), Lwam Tesfu (1602205)
