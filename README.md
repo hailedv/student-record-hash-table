@@ -160,9 +160,9 @@ Speedup: 56.67x faster
 ![Interactive Menu](screenshots/menu.png)
 *Main menu interface for CRUD operations and system management*
 
-### 4. Hash Table Statistics & Analysis
-![Hash Table Output](screenshots/hash-table-output.png)
-*Load factor analysis, collision statistics, and mathematical breakdown*
+### 4. Additional Program Output
+![Additional Output](screenshots/image.png1.png)
+*Extended program functionality and detailed analysis output*
 
 ## Mathematical Analysis
 
