@@ -3,6 +3,8 @@
 *.out
 student_system
 studentSystem
+student_system.exe
+studentSystem.exe
 
 # Object files
 *.o
