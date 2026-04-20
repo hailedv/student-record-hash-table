@@ -1,8 +1,0 @@
-{
-    "code-runner.executorMap": {
-        "cpp": "cd $dir ; g++ -std=c++11 -Wall main.cpp HashTable.cpp LinearSearch.cpp DataGenerator.cpp -o student_system.exe ; .\\student_system.exe"
-    },
-    "code-runner.fileDirectoryAsCwd": true,
-    "code-runner.runInTerminal": true,
-    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
-}
