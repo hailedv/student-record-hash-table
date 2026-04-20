@@ -1,7 +1,10 @@
 CXX      = g++
-CXXFLAGS = -std=c++11 -Wall -Wextra -O2
+CXXFLAGS = -std=c++11 -Wall -Wextra -O2 -Iinclude
+SRCDIR   = src
+INCDIR   = include
 TARGET   = student_system
-OBJS     = main.o HashTable.o LinearSearch.o DataGenerator.o
+SOURCES  = $(SRCDIR)/main.cpp $(SRCDIR)/HashTable.cpp $(SRCDIR)/LinearSearch.cpp $(SRCDIR)/DataGenerator.cpp
+OBJS     = $(SOURCES:.cpp=.o)
 
 # ── Default target ────────────────────────────────────────────
 all: $(TARGET)
@@ -10,17 +13,8 @@ $(TARGET): $(OBJS)
 	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJS)
 
 # ── Object files ──────────────────────────────────────────────
-main.o: main.cpp HashTable.h LinearSearch.h DataGenerator.h Student.h Node.h
-	$(CXX) $(CXXFLAGS) -c main.cpp
-
-HashTable.o: HashTable.cpp HashTable.h Node.h Student.h
-	$(CXX) $(CXXFLAGS) -c HashTable.cpp
-
-LinearSearch.o: LinearSearch.cpp LinearSearch.h Student.h
-	$(CXX) $(CXXFLAGS) -c LinearSearch.cpp
-
-DataGenerator.o: DataGenerator.cpp DataGenerator.h
-	$(CXX) $(CXXFLAGS) -c DataGenerator.cpp
+$(SRCDIR)/%.o: $(SRCDIR)/%.cpp
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 # ── Run ───────────────────────────────────────────────────────
 run: $(TARGET)

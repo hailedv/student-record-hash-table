@@ -16,14 +16,22 @@ This project implements a student information system for Aksum University using 
 
 ## File Structure
 ```
-├── Student.h           - Student data structure
-├── Node.h              - Linked list node for chaining
-├── HashTable.h/cpp     - Hash table implementation
-├── LinearSearch.h/cpp  - Linear search implementation
-├── DataGenerator.h/cpp - CSV data generator
-├── main.cpp            - Main program with tests
-├── Makefile            - Build configuration
-└── README.md           - This file
+├── src/
+│   ├── main.cpp            — Entry point: benchmarks, analysis, interactive menu
+│   ├── HashTable.cpp       — Hash table implementation
+│   ├── LinearSearch.cpp    — Linear search baseline
+│   └── DataGenerator.cpp   — Generates 1,000 Ethiopian/Tigrinya student records
+├── include/
+│   ├── Student.h           — Student data structure (ID, Name, Department, CGPA, Year)
+│   ├── Node.h              — Linked list node for chaining
+│   ├── HashTable.h         — Hash table header
+│   ├── LinearSearch.h      — Linear search header
+│   └── DataGenerator.h     — Data generator header
+├── screenshots/            — Program execution screenshots
+├── Report/                 — Project documentation
+├── Makefile               — Build configuration
+├── README.md              — This documentation
+└── students.csv           — Auto-generated dataset
 ```
 
 ## Compilation and Execution
@@ -34,15 +42,15 @@ make
 make run
 ```
 
-### Manual Compilation:
+### Manual (Linux/Mac)
 ```bash
-g++ -std=c++11 -o student_system main.cpp HashTable.cpp LinearSearch.cpp DataGenerator.cpp
+g++ -std=c++11 -Iinclude -o student_system src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
 ./student_system
 ```
 
-### Windows (without make):
+### Windows (MinGW)
 ```bash
-g++ -std=c++11 -o student_system.exe main.cpp HashTable.cpp LinearSearch.cpp DataGenerator.cpp
+g++ -std=c++11 -Iinclude -o student_system.exe src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
 student_system.exe
 ```
 
