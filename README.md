@@ -122,6 +122,20 @@ Linear Search: 8500 microseconds (100 searches)
 Speedup: 56.67x faster
 ```
 
+## Screenshots
+
+### Program Execution
+![Program Header](screenshots/program-start.png)
+
+### Performance Comparison Results
+![Performance Results](screenshots/performance-results.png)
+
+### Interactive Menu
+![Interactive Menu](screenshots/menu.png)
+
+### Hash Table Display
+![Hash Table Output](screenshots/hash-table-output.png)
+
 ## Mathematical Analysis
 
 ### Expected Chain Length
