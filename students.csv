@@ -1,1001 +1,1002 @@
 StudentID,Name,Department,CGPA,Year
-160186000,Henok Tesfaye,Mathematics,3.85,2
-160186001,Hiwot Wolde,Mathematics,2.12,5
-160186002,Kaleb Kebede,Civil Engineering,3.38,2
-160186003,Yonas Lemma,Electrical Engineering,2.11,5
-160186004,Biruk Yilma,Mathematics,3.78,4
-160186005,Selam Mengistu,Mathematics,2.31,1
-160186006,Azeb Gebre,Computer Science,3.21,2
-160186007,Abebe Getachew,Physics,3.17,4
-160186008,Azeb Mengistu,Computer Science,2.68,2
-160186009,Tsion Abate,Business Administration,3.88,4
-160186010,Henok Getachew,Mechanical Engine5ering,2,1
-160186011,Dawit Kebede,Mathematics,3.34,1
-160186012,Robel Fekadu,Physics,3.86,2
-160186013,Abebe Shiferaw,Mathematics,2.11,2
-160186014,Tigist Mengistu,Software Engineering,2.86,4
-160186015,Abebe Desta,Physics,2.92,2
-160186016,Azeb Gebre,Electrical Engineering,3.58,1
-160186017,Bethlehem Girma,Software Engineering,2.54,4
-160186018,Azeb Kebede,Mechanical Engine5ering,3.89,3
-160186019,Yared Fekadu,Physics,2.05,5
-160186020,Rahel Yilma,Business Administration,3.46,1
-160186021,Selam Mulugeta,Business Administration,2.04,2
-160186022,Kaleb Mulugeta,Electrical Engineering,2.75,5
-160186023,Fikirte Tadesse,Computer Science,2.7,5
-160186024,Ermias Fekadu,Civil Engineering,2.53,3
-160186025,Yared Negash,Civil Engineering,3.37,4
-160186026,Tsion Tesfaye,Mathematics,2.63,4
-160186027,Meron Girma,Physics,2.97,2
-160186028,Ermias Demeke,Mechanical Engine5ering,3.15,4
-160186029,Bethlehem Bekele,Computer Science,2.57,5
-160186030,Selamawit Demeke,Business Administration,3.46,1
-160186031,Rahel Abate,Computer Science,2.21,1
-160186032,Selamawit Bekele,Mechanical Engine5ering,2.52,2
-160186033,Eyob Kebede,Electrical Engineering,2.31,2
-160186034,Biruk Worku,Civil Engineering,3.12,4
-160186035,Henok Mulugeta,Civil Engineering,2.89,2
-160186036,Henok Gebre,Electrical Engineering,3.39,5
-160186037,Azeb Gebre,Business Administration,3.64,4
-160186038,Henok Getachew,Software Engineering,2.3,1
-160186039,Kaleb Wolde,Mathematics,2.42,5
-160186040,Natnael Wolde,Electrical Engineering,3.3,3
-160186041,Selam Shiferaw,Computer Science,3.64,3
-160186042,Kidist Getachew,Physics,3.68,1
-160186043,Eyob Abate,Computer Science,2.38,2
-160186044,Ermias Tesfaye,Civil Engineering,2.85,5
-160186045,Hiwot Fekadu,Computer Science,3.48,5
-160186046,Mikias Getachew,Electrical Engineering,3.08,5
-160186047,Ermias Tadesse,Mathematics,2.82,3
-160186048,Amanuel Kebede,Mathematics,3.82,1
-160186049,Kaleb Yilma,Physics,3.85,5
-160186050,Tigist Mengistu,Mathematics,3.33,2
-160186051,Ermias Mekonnen,Mechanical Engine5ering,2.87,2
-160186052,Liya Zeleke,Electrical Engineering,3.3,4
-160186053,Amanuel Wolde,Software Engineering,3.17,4
-160186054,Biruk Desta,Electrical Engineering,2.51,1
-160186055,Eyob Haile,Software Engineering,2.84,2
-160186056,Natnael Demeke,Software Engineering,3.66,4
-160186057,Tsion Bekele,Civil Engineering,2.69,3
-160186058,Tigist Assefa,Mechanical Engine5ering,3.36,4
-160186059,Yared Tadesse,Business Administration,3.9,5
-160186060,Abebe Yilma,Physics,3.44,2
-160186061,Bethlehem Desta,Computer Science,2.6,2
-160186062,Yonas Abate,Business Administration,3.27,2
-160186063,Dawit Shiferaw,Software Engineering,2.44,2
-160186064,Selam Desta,Physics,3.35,2
-160186065,Henok Haile,Software Engineering,2.55,2
-160186066,Ermias Yilma,Civil Engineering,3.94,4
-160186067,Mikias Demeke,Business Administration,3.94,2
-160186068,Yonas Desta,Electrical Engineering,3.14,5
-160186069,Henok Abate,Physics,2.93,3
-160186070,Meron Assefa,Civil Engineering,3.96,5
-160186071,Yonas Tadesse,Mathematics,3.16,4
-160186072,Yonas Demeke,Civil Engineering,2.69,5
-160186073,Abebe Tadesse,Physics,3.18,3
-160186074,Amanuel Yilma,Business Administration,3.36,4
-160186075,Henok Wolde,Business Administration,2.69,3
-160186076,Liya Yilma,Software Engineering,2.91,4
-160186077,Natnael Mulugeta,Computer Science,3.93,5
-160186078,Bethlehem Tadesse,Mechanical Engine5ering,3.67,4
-160186079,Selam Abate,Physics,2.29,5
-160186080,Biruk Assefa,Civil Engineering,2.79,5
-160186081,Azeb Mengistu,Civil Engineering,2.38,3
-160186082,Eyob Tesfaye,Civil Engineering,2.13,2
-160186083,Rahel Wolde,Mechanical Engine5ering,3.69,5
-160186084,Azeb Worku,Physics,3.63,2
-160186085,Rahel Demeke,Electrical Engineering,3.61,5
-160186086,Liya Assefa,Mechanical Engine5ering,3.65,2
-160186087,Robel Mekonnen,Electrical Engineering,3.09,2
-160186088,Robel Tesfaye,Electrical Engineering,2.3,1
-160186089,Hiwot Kebede,Mechanical Engine5ering,2.4,5
-160186090,Natnael Wolde,Civil Engineering,3.66,3
-160186091,Meron Desta,Computer Science,2.1,3
-160186092,Kaleb Mengistu,Civil Engineering,3.49,5
-160186093,Selam Lemma,Computer Science,3.5,2
-160186094,Mikias Mekonnen,Software Engineering,3.02,3
-160186095,Rahel Demeke,Civil Engineering,2.9,5
-160186096,Selam Yilma,Electrical Engineering,2.26,5
-160186097,Natnael Tadesse,Mathematics,3.94,5
-160186098,Biruk Mengistu,Mechanical Engine5ering,3.82,2
-160186099,Tsion Getachew,Business Administration,2.85,4
-160186100,Biruk Mengistu,Mathematics,3.16,2
-160186101,Liya Gebre,Electrical Engineering,3.62,3
-160186102,Selam Wolde,Civil Engineering,2.04,3
-160186103,Liya Mulugeta,Business Administration,2.55,2
-160186104,Tigist Tesfaye,Physics,2.33,2
-160186105,Yonas Assefa,Software Engineering,2.04,3
-160186106,Meron Getachew,Civil Engineering,3.26,3
-160186107,Fikirte Demeke,Electrical Engineering,3.81,3
-160186108,Robel Negash,Computer Science,2.29,4
-160186109,Tigist Mengistu,Mechanical Engine5ering,3.11,5
-160186110,Amanuel Assefa,Electrical Engineering,3.64,5
-160186111,Amanuel Assefa,Computer Science,2.02,5
-160186112,Tigist Lemma,Mathematics,3.05,1
-160186113,Azeb Tadesse,Business Administration,3.8,1
-160186114,Azeb Teshome,Mathematics,2.36,5
-160186115,Kaleb Assefa,Mathematics,3.37,1
-160186116,Bethlehem Fekadu,Civil Engineering,2.38,2
-160186117,Dawit Shiferaw,Software Engineering,2.89,3
-160186118,Kidist Wolde,Civil Engineering,3.69,2
-160186119,Fikirte Demeke,Computer Science,3.38,2
-160186120,Henok Alemu,Software Engineering,3.21,5
-160186121,Azeb Demeke,Computer Science,3.64,5
-160186122,Selamawit Lemma,Mechanical Engine5ering,2.98,1
-160186123,Amanuel Shiferaw,Electrical Engineering,3.31,2
-160186124,Abebe Zeleke,Mechanical Engine5ering,2.36,1
-160186125,Amanuel Negash,Software Engineering,3.94,3
-160186126,Selam Abate,Business Administration,2.36,3
-160186127,Mikias Worku,Physics,2.1,2
-160186128,Kaleb Negash,Civil Engineering,2.14,4
-160186129,Mikias Shiferaw,Civil Engineering,2.56,4
-160186130,Fikirte Desta,Electrical Engineering,3.08,5
-160186131,Yonas Desta,Business Administration,3.78,4
-160186132,Dawit Demeke,Mathematics,3.22,3
-160186133,Amanuel Mengistu,Mathematics,2.98,1
-160186134,Bethlehem Yilma,Software Engineering,3.87,5
-160186135,Kidist Lemma,Business Administration,3.21,5
-160186136,Tsion Haile,Electrical Engineering,2.51,3
-160186137,Rahel Haile,Civil Engineering,2.74,5
-160186138,Henok Negash,Business Administration,2.02,4
-160186139,Yared Abate,Software Engineering,3.73,2
-160186140,Natnael Kebede,Software Engineering,3.04,3
-160186141,Kaleb Haile,Computer Science,2.53,4
-160186142,Liya Haile,Software Engineering,3.22,5
-160186143,Ermias Tadesse,Mathematics,2.22,4
-160186144,Tsion Demeke,Electrical Engineering,3.55,5
-160186145,Natnael Zeleke,Mechanical Engine5ering,2.49,3
-160186146,Hiwot Yilma,Mechanical Engine5ering,2.38,4
-160186147,Henok Zeleke,Mechanical Engine5ering,3.22,1
-160186148,Kaleb Alemu,Computer Science,3.19,5
-160186149,Eyob Alemu,Business Administration,2.31,4
-160186150,Ermias Yilma,Business Administration,3.49,2
-160186151,Yonas Mekonnen,Mechanical Engine5ering,3.05,5
-160186152,Eyob Kebede,Mechanical Engine5ering,3.92,4
-160186153,Meron Zeleke,Business Administration,2.33,5
-160186154,Rahel Gebre,Physics,2.97,3
-160186155,Hiwot Alemu,Physics,3.61,3
-160186156,Abebe Yilma,Civil Engineering,2.95,1
-160186157,Yared Wolde,Physics,2.42,1
-160186158,Eyob Abate,Business Administration,2.15,5
-160186159,Dawit Haile,Software Engineering,3.91,1
-160186160,Tsion Gebre,Civil Engineering,2.45,4
-160186161,Yonas Kebede,Mechanical Engine5ering,3.34,4
-160186162,Meron Abate,Physics,2.13,1
-160186163,Natnael Haile,Mechanical Engine5ering,3.19,1
-160186164,Amanuel Fekadu,Electrical Engineering,2.75,3
-160186165,Henok Mengistu,Civil Engineering,2.34,3
-160186166,Yared Zeleke,Software Engineering,3.78,2
-160186167,Bethlehem Wolde,Business Administration,3.11,3
-160186168,Azeb Abate,Physics,3.99,1
-160186169,Selamawit Lemma,Mechanical Engine5ering,2.79,5
-160186170,Ermias Yilma,Physics,2.29,3
-160186171,Dawit Abate,Software Engineering,2.76,2
-160186172,Robel Negash,Business Administration,2.71,2
-160186173,Rahel Kebede,Mechanical Engine5ering,3.78,2
-160186174,Rahel Wolde,Mechanical Engine5ering,3.82,3
-160186175,Eyob Yilma,Business Administration,2.57,3
-160186176,Kaleb Tesfaye,Software Engineering,2.23,2
-160186177,Yonas Teshome,Business Administration,4,4
-160186178,Abebe Fekadu,Civil Engineering,2.68,4
-160186179,Fikirte Worku,Civil Engineering,3.06,5
-160186180,Dawit Gebre,Business Administration,3.39,5
-160186181,Rahel Wolde,Mathematics,3.09,2
-160186182,Hiwot Tadesse,Physics,3.01,5
-160186183,Ermias Worku,Electrical Engineering,2.74,5
-160186184,Meron Abate,Mechanical Engine5ering,2.71,2
-160186185,Biruk Worku,Physics,3.49,3
-160186186,Hiwot Haile,Computer Science,3.36,3
-160186187,Kaleb Getachew,Electrical Engineering,3.67,2
-160186188,Liya Mekonnen,Physics,3.67,3
-160186189,Selamawit Bekele,Mathematics,3.42,2
-160186190,Selamawit Kebede,Physics,2.38,1
-160186191,Azeb Bekele,Physics,3.68,1
-160186192,Meron Fekadu,Mechanical Engine5ering,3.22,4
-160186193,Azeb Haile,Electrical Engineering,2.29,1
-160186194,Tigist Teshome,Business Administration,3.54,5
-160186195,Rahel Kebede,Software Engineering,2.05,1
-160186196,Kaleb Demeke,Computer Science,2.95,5
-160186197,Mikias Tadesse,Civil Engineering,2.92,5
-160186198,Natnael Kebede,Business Administration,3.3,4
-160186199,Kidist Kebede,Civil Engineering,3.74,4
-160186200,Selam Yilma,Civil Engineering,2.4,1
-160186201,Azeb Tesfaye,Civil Engineering,2.63,3
-160186202,Kaleb Gebre,Electrical Engineering,2.99,1
-160186203,Rahel Worku,Software Engineering,3.72,4
-160186204,Kidist Worku,Software Engineering,2.66,5
-160186205,Kidist Tadesse,Software Engineering,2.3,4
-160186206,Azeb Teshome,Business Administration,2.11,4
-160186207,Meron Getachew,Mathematics,2.11,5
-160186208,Robel Tesfaye,Electrical Engineering,3.47,5
-160186209,Fikirte Gebre,Civil Engineering,2.67,3
-160186210,Tsion Bekele,Physics,2.03,5
-160186211,Fikirte Desta,Software Engineering,2.95,2
-160186212,Kaleb Teshome,Electrical Engineering,3.97,5
-160186213,Hiwot Mengistu,Mathematics,2.43,2
-160186214,Robel Shiferaw,Computer Science,3.4,1
-160186215,Henok Zeleke,Business Administration,2.65,1
-160186216,Kidist Abate,Physics,2.45,1
-160186217,Yared Kebede,Software Engineering,2.92,5
-160186218,Kidist Abate,Physics,2.21,5
-160186219,Biruk Assefa,Electrical Engineering,2.54,3
-160186220,Yared Demeke,Civil Engineering,2.75,1
-160186221,Amanuel Mengistu,Civil Engineering,3.46,1
-160186222,Abebe Teshome,Mechanical Engine5ering,2.25,3
-160186223,Liya Desta,Civil Engineering,2.2,4
-160186224,Mikias Wolde,Electrical Engineering,3.34,5
-160186225,Natnael Demeke,Electrical Engineering,2.16,1
-160186226,Hiwot Mekonnen,Computer Science,2.1,5
-160186227,Biruk Kebede,Civil Engineering,3.81,4
-160186228,Abebe Abate,Civil Engineering,2.7,3
-160186229,Yared Lemma,Business Administration,3.93,1
-160186230,Robel Wolde,Mathematics,3.22,5
-160186231,Rahel Bekele,Civil Engineering,4,1
-160186232,Eyob Yilma,Electrical Engineering,3.98,1
-160186233,Yared Mulugeta,Physics,3.49,3
-160186234,Henok Desta,Mathematics,3.19,2
-160186235,Amanuel Alemu,Computer Science,3.94,4
-160186236,Azeb Worku,Software Engineering,3.94,1
-160186237,Kidist Lemma,Computer Science,3.53,2
-160186238,Fikirte Haile,Mathematics,3.8,2
-160186239,Selam Kebede,Computer Science,3.29,3
-160186240,Mikias Teshome,Physics,2.45,1
-160186241,Amanuel Shiferaw,Physics,3.88,5
-160186242,Yared Alemu,Mathematics,3.18,4
-160186243,Henok Abate,Physics,3.6,5
-160186244,Azeb Kebede,Mathematics,3.65,3
-160186245,Tsion Mengistu,Mechanical Engine5ering,3.46,2
-160186246,Amanuel Mekonnen,Mechanical Engine5ering,2.97,4
-160186247,Mikias Bekele,Civil Engineering,2.4,4
-160186248,Amanuel Mulugeta,Computer Science,2.71,1
-160186249,Kaleb Abate,Software Engineering,3.46,2
-160186250,Hiwot Girma,Mechanical Engine5ering,3.7,1
-160186251,Ermias Wolde,Physics,3.68,1
-160186252,Fikirte Mengistu,Electrical Engineering,3.98,3
-160186253,Eyob Mengistu,Computer Science,2.8,5
-160186254,Hiwot Mekonnen,Electrical Engineering,2.16,4
-160186255,Henok Getachew,Physics,3.72,2
-160186256,Natnael Abate,Mathematics,2.35,5
-160186257,Azeb Mengistu,Mechanical Engine5ering,2.84,5
-160186258,Azeb Mulugeta,Business Administration,2.78,2
-160186259,Selam Shiferaw,Software Engineering,2.22,2
-160186260,Liya Assefa,Mechanical Engine5ering,2.48,2
-160186261,Rahel Zeleke,Software Engineering,2.4,3
-160186262,Bethlehem Yilma,Civil Engineering,3.5,3
-160186263,Azeb Shiferaw,Civil Engineering,2.17,4
-160186264,Yonas Gebre,Computer Science,3.61,3
-160186265,Mikias Demeke,Business Administration,3.76,4
-160186266,Hiwot Assefa,Civil Engineering,2.17,2
-160186267,Ermias Lemma,Civil Engineering,3.08,5
-160186268,Yared Mekonnen,Mathematics,3.2,2
-160186269,Kaleb Alemu,Mathematics,2.74,1
-160186270,Dawit Gebre,Civil Engineering,3.95,1
-160186271,Selamawit Shiferaw,Physics,2.14,3
-160186272,Kidist Zeleke,Mathematics,3.11,5
-160186273,Tsion Abate,Physics,3.86,4
-160186274,Eyob Desta,Computer Science,3.33,1
-160186275,Biruk Worku,Computer Science,2.05,2
-160186276,Kaleb Mekonnen,Electrical Engineering,2.72,4
-160186277,Biruk Shiferaw,Business Administration,3.29,3
-160186278,Abebe Tadesse,Business Administration,3.31,5
-160186279,Henok Negash,Physics,3.1,5
-160186280,Meron Lemma,Physics,3.81,4
-160186281,Amanuel Tesfaye,Mathematics,2.88,1
-160186282,Tsion Demeke,Business Administration,2.21,4
-160186283,Hiwot Assefa,Computer Science,3,2
-160186284,Kaleb Wolde,Electrical Engineering,2.98,1
-160186285,Ermias Teshome,Physics,3.79,4
-160186286,Selam Bekele,Mechanical Engine5ering,3.75,2
-160186287,Azeb Negash,Software Engineering,3.86,3
-160186288,Hiwot Abate,Electrical Engineering,2.36,1
-160186289,Henok Tesfaye,Civil Engineering,3.03,3
-160186290,Robel Girma,Software Engineering,2.81,3
-160186291,Biruk Abate,Electrical Engineering,3.66,4
-160186292,Amanuel Girma,Mathematics,2.54,2
-160186293,Kidist Haile,Civil Engineering,3.43,1
-160186294,Biruk Bekele,Business Administration,3.18,3
-160186295,Robel Bekele,Civil Engineering,2.09,3
-160186296,Kaleb Tadesse,Computer Science,3.02,4
-160186297,Tigist Kebede,Mathematics,2.62,1
-160186298,Selam Zeleke,Mechanical Engine5ering,3.4,5
-160186299,Tsion Kebede,Physics,3.3,5
-160186300,Robel Tadesse,Electrical Engineering,2.9,2
-160186301,Yared Wolde,Mathematics,3.22,5
-160186302,Robel Worku,Electrical Engineering,2.72,4
-160186303,Kidist Haile,Mathematics,2,4
-160186304,Selamawit Mekonnen,Software Engineering,3.88,3
-160186305,Amanuel Kebede,Civil Engineering,3.78,4
-160186306,Selamawit Girma,Mathematics,3.66,1
-160186307,Meron Haile,Mathematics,3.77,5
-160186308,Biruk Mulugeta,Mathematics,3.39,4
-160186309,Bethlehem Demeke,Mathematics,2.84,2
-160186310,Selam Demeke,Software Engineering,3.05,2
-160186311,Robel Gebre,Mathematics,3.18,3
-160186312,Kaleb Desta,Electrical Engineering,2.66,5
-160186313,Eyob Yilma,Mechanical Engine5ering,3.85,5
-160186314,Bethlehem Desta,Civil Engineering,2.23,2
-160186315,Rahel Haile,Software Engineering,2.86,3
-160186316,Mikias Desta,Civil Engineering,3,2
-160186317,Ermias Tesfaye,Mechanical Engine5ering,2.71,4
-160186318,Amanuel Tesfaye,Mathematics,3.66,5
-160186319,Selam Shiferaw,Software Engineering,3.74,2
-160186320,Yonas Girma,Business Administration,2.36,2
-160186321,Tsion Shiferaw,Mathematics,2.38,2
-160186322,Liya Zeleke,Electrical Engineering,3.47,3
-160186323,Biruk Getachew,Civil Engineering,2.78,4
-160186324,Mikias Haile,Business Administration,2.82,2
-160186325,Amanuel Gebre,Electrical Engineering,3.97,5
-160186326,Hiwot Tadesse,Mechanical Engine5ering,2.66,3
-160186327,Meron Haile,Civil Engineering,2.95,2
-160186328,Meron Abate,Computer Science,2.4,2
-160186329,Kidist Yilma,Computer Science,2.22,4
-160186330,Eyob Gebre,Mechanical Engine5ering,2.55,5
-160186331,Biruk Teshome,Civil Engineering,3.14,5
-160186332,Liya Mekonnen,Civil Engineering,3.06,4
-160186333,Hiwot Shiferaw,Computer Science,2.23,2
-160186334,Tigist Mengistu,Business Administration,3.47,5
-160186335,Selam Getachew,Physics,3.68,4
-160186336,Liya Shiferaw,Business Administration,2.08,5
-160186337,Biruk Mengistu,Business Administration,3.86,1
-160186338,Eyob Getachew,Physics,3.63,3
-160186339,Amanuel Haile,Mathematics,2.74,2
-160186340,Liya Gebre,Computer Science,3.29,5
-160186341,Azeb Wolde,Mechanical Engine5ering,3.17,5
-160186342,Tsion Teshome,Mechanical Engine5ering,2.22,3
-160186343,Abebe Alemu,Computer Science,2.55,3
-160186344,Azeb Bekele,Electrical Engineering,2.95,5
-160186345,Tsion Haile,Physics,3.97,4
-160186346,Dawit Fekadu,Software Engineering,2.54,1
-160186347,Mikias Yilma,Civil Engineering,2.04,5
-160186348,Abebe Haile,Software Engineering,2.91,5
-160186349,Henok Shiferaw,Software Engineering,3.68,3
-160186350,Ermias Kebede,Mechanical Engine5ering,3.97,3
-160186351,Yared Haile,Business Administration,3.85,3
-160186352,Dawit Lemma,Mathematics,3.87,2
-160186353,Tsion Worku,Software Engineering,3.54,1
-160186354,Kaleb Wolde,Mechanical Engine5ering,2.28,5
-160186355,Biruk Mekonnen,Business Administration,2.8,4
-160186356,Abebe Kebede,Software Engineering,2.85,4
-160186357,Amanuel Kebede,Electrical Engineering,2.89,2
-160186358,Dawit Tesfaye,Mathematics,3.37,3
-160186359,Robel Shiferaw,Civil Engineering,3.35,2
-160186360,Tsion Haile,Electrical Engineering,2.83,2
-160186361,Liya Mekonnen,Mathematics,3.65,2
-160186362,Hiwot Mekonnen,Business Administration,3.44,5
-160186363,Biruk Kebede,Electrical Engineering,3.6,5
-160186364,Kaleb Assefa,Civil Engineering,3.53,4
-160186365,Meron Demeke,Software Engineering,2.84,4
-160186366,Yonas Kebede,Physics,2.68,3
-160186367,Liya Zeleke,Electrical Engineering,3.39,3
-160186368,Kaleb Mengistu,Business Administration,3.58,4
-160186369,Liya Lemma,Electrical Engineering,3.07,4
-160186370,Tsion Assefa,Mechanical Engine5ering,2.92,3
-160186371,Tsion Negash,Computer Science,3.28,2
-160186372,Selam Haile,Business Administration,3.91,1
-160186373,Amanuel Lemma,Mathematics,3.07,1
-160186374,Yonas Zeleke,Physics,3.86,2
-160186375,Natnael Gebre,Software Engineering,2.58,4
-160186376,Selamawit Girma,Physics,3.05,1
-160186377,Eyob Alemu,Computer Science,3.85,4
-160186378,Kaleb Desta,Computer Science,2.11,3
-160186379,Dawit Fekadu,Business Administration,3.79,2
-160186380,Yared Negash,Business Administration,3.41,5
-160186381,Fikirte Tadesse,Civil Engineering,2.84,2
-160186382,Rahel Gebre,Mechanical Engine5ering,3.71,2
-160186383,Biruk Teshome,Software Engineering,2.23,3
-160186384,Yared Worku,Mathematics,3.15,3
-160186385,Yonas Gebre,Mechanical Engine5ering,2.02,5
-160186386,Liya Shiferaw,Civil Engineering,3.09,5
-160186387,Amanuel Teshome,Civil Engineering,3.19,2
-160186388,Selam Getachew,Mathematics,3.98,1
-160186389,Amanuel Haile,Mechanical Engine5ering,3.13,4
-160186390,Bethlehem Lemma,Civil Engineering,2.07,5
-160186391,Rahel Mengistu,Civil Engineering,3.39,4
-160186392,Yared Tadesse,Business Administration,3.98,1
-160186393,Henok Wolde,Physics,2.93,3
-160186394,Tigist Tesfaye,Software Engineering,2.03,1
-160186395,Azeb Teshome,Software Engineering,2.2,5
-160186396,Biruk Worku,Computer Science,3.68,4
-160186397,Kaleb Haile,Mechanical Engine5ering,2.21,2
-160186398,Ermias Mekonnen,Mathematics,2.19,4
-160186399,Meron Shiferaw,Software Engineering,2.92,3
-160186400,Yonas Wolde,Physics,3.04,5
-160186401,Tigist Yilma,Civil Engineering,3.57,3
-160186402,Meron Tadesse,Mechanical Engine5ering,3.28,2
-160186403,Biruk Girma,Physics,2.22,1
-160186404,Liya Kebede,Software Engineering,2.39,5
-160186405,Bethlehem Bekele,Physics,3.4,3
-160186406,Tsion Negash,Mechanical Engine5ering,2.21,4
-160186407,Robel Zeleke,Mechanical Engine5ering,2.1,5
-160186408,Dawit Fekadu,Software Engineering,3.94,2
-160186409,Selamawit Mengistu,Computer Science,2.9,5
-160186410,Rahel Assefa,Software Engineering,4,1
-160186411,Selamawit Kebede,Mechanical Engine5ering,3.78,4
-160186412,Rahel Girma,Business Administration,2.67,1
-160186413,Natnael Bekele,Physics,2.25,1
-160186414,Yonas Gebre,Business Administration,3.28,2
-160186415,Liya Shiferaw,Electrical Engineering,2.29,4
-160186416,Bethlehem Lemma,Business Administration,3.18,2
-160186417,Yonas Mengistu,Physics,2.29,1
-160186418,Hiwot Fekadu,Business Administration,3.7,1
-160186419,Tsion Negash,Mechanical Engine5ering,2.11,3
-160186420,Robel Mengistu,Software Engineering,3.15,1
-160186421,Ermias Yilma,Business Administration,3.37,3
-160186422,Robel Teshome,Physics,2.63,2
-160186423,Natnael Tesfaye,Business Administration,2.58,5
-160186424,Henok Alemu,Physics,2.13,1
-160186425,Meron Wolde,Electrical Engineering,3.09,5
-160186426,Yonas Negash,Civil Engineering,2.62,1
-160186427,Selam Shiferaw,Software Engineering,2.76,5
-160186428,Azeb Mulugeta,Business Administration,2.71,3
-160186429,Yared Alemu,Computer Science,3.31,5
-160186430,Amanuel Mekonnen,Business Administration,2.85,5
-160186431,Dawit Tadesse,Physics,3.34,3
-160186432,Kaleb Gebre,Business Administration,3.67,5
-160186433,Natnael Fekadu,Mechanical Engine5ering,2.15,3
-160186434,Yonas Alemu,Mathematics,2.79,1
-160186435,Yonas Wolde,Computer Science,2.77,3
-160186436,Natnael Negash,Mechanical Engine5ering,3.55,2
-160186437,Kidist Demeke,Mathematics,2.96,2
-160186438,Dawit Lemma,Physics,2.81,5
-160186439,Kidist Bekele,Electrical Engineering,3.39,5
-160186440,Henok Shiferaw,Physics,3.35,5
-160186441,Kidist Negash,Software Engineering,3.67,4
-160186442,Selam Desta,Civil Engineering,3.52,3
-160186443,Yared Tadesse,Physics,2.11,1
-160186444,Biruk Mulugeta,Mathematics,2.8,2
-160186445,Amanuel Wolde,Electrical Engineering,3.91,2
-160186446,Eyob Teshome,Electrical Engineering,2.19,2
-160186447,Eyob Haile,Computer Science,2.83,5
-160186448,Henok Desta,Mechanical Engine5ering,3.57,4
-160186449,Eyob Fekadu,Mechanical Engine5ering,3.86,2
-160186450,Yonas Mengistu,Civil Engineering,2.23,4
-160186451,Selam Lemma,Computer Science,3.92,4
-160186452,Rahel Mulugeta,Mathematics,3.02,3
-160186453,Biruk Girma,Computer Science,2.47,3
-160186454,Tsion Shiferaw,Mathematics,2.04,1
-160186455,Kaleb Kebede,Business Administration,3.91,1
-160186456,Abebe Tadesse,Mechanical Engine5ering,2.49,4
-160186457,Kaleb Mekonnen,Physics,3.95,2
-160186458,Ermias Kebede,Electrical Engineering,3.61,3
-160186459,Kaleb Assefa,Computer Science,3.61,3
-160186460,Tigist Wolde,Mathematics,3.46,1
-160186461,Natnael Demeke,Mechanical Engine5ering,3.08,4
-160186462,Kidist Kebede,Computer Science,2.84,5
-160186463,Kaleb Mekonnen,Computer Science,3.2,2
-160186464,Eyob Fekadu,Business Administration,3.55,1
-160186465,Abebe Assefa,Mathematics,2.84,4
-160186466,Hiwot Mulugeta,Civil Engineering,3.59,4
-160186467,Meron Bekele,Business Administration,2.7,1
-160186468,Yonas Demeke,Mathematics,3.9,3
-160186469,Abebe Mulugeta,Electrical Engineering,2.32,1
-160186470,Fikirte Yilma,Mechanical Engine5ering,2.26,4
-160186471,Dawit Teshome,Business Administration,3.99,3
-160186472,Dawit Desta,Electrical Engineering,3.7,5
-160186473,Fikirte Worku,Mathematics,3.5,4
-160186474,Kaleb Desta,Business Administration,2.23,2
-160186475,Mikias Abate,Physics,3.3,3
-160186476,Amanuel Kebede,Computer Science,3.43,2
-160186477,Natnael Kebede,Business Administration,3.74,5
-160186478,Liya Mengistu,Software Engineering,3.19,5
-160186479,Dawit Zeleke,Physics,2.17,5
-160186480,Kaleb Abate,Software Engineering,2.65,2
-160186481,Amanuel Shiferaw,Physics,2.99,5
-160186482,Yonas Zeleke,Mechanical Engine5ering,3.04,1
-160186483,Rahel Mulugeta,Mathematics,3.62,4
-160186484,Robel Teshome,Software Engineering,3.98,3
-160186485,Selamawit Haile,Physics,2.98,3
-160186486,Tsion Girma,Electrical Engineering,2.6,2
-160186487,Tigist Negash,Business Administration,3.75,3
-160186488,Tigist Tesfaye,Software Engineering,2.75,3
-160186489,Eyob Negash,Physics,2.37,1
-160186490,Eyob Shiferaw,Computer Science,3.56,5
-160186491,Amanuel Mengistu,Mechanical Engine5ering,3.53,5
-160186492,Tsion Worku,Business Administration,2.43,2
-160186493,Natnael Zeleke,Software Engineering,2.52,2
-160186494,Henok Yilma,Civil Engineering,3.39,1
-160186495,Meron Alemu,Civil Engineering,2.5,4
-160186496,Bethlehem Yilma,Software Engineering,3.23,2
-160186497,Yonas Tesfaye,Mathematics,2.36,5
-160186498,Biruk Bekele,Mathematics,2.13,4
-160186499,Hiwot Tesfaye,Civil Engineering,2.06,3
-160186500,Dawit Assefa,Computer Science,3.57,1
-160186501,Yared Negash,Mechanical Engine5ering,2.23,4
-160186502,Eyob Zeleke,Software Engineering,2.4,1
-160186503,Henok Lemma,Business Administration,3.12,3
-160186504,Amanuel Demeke,Electrical Engineering,2.02,4
-160186505,Kaleb Girma,Electrical Engineering,2.66,1
-160186506,Kaleb Demeke,Mechanical Engine5ering,3.71,5
-160186507,Kidist Assefa,Business Administration,2.35,3
-160186508,Selam Wolde,Mathematics,3.91,2
-160186509,Ermias Negash,Physics,3.57,5
-160186510,Biruk Worku,Electrical Engineering,2.03,5
-160186511,Rahel Kebede,Electrical Engineering,3.98,5
-160186512,Abebe Haile,Mechanical Engine5ering,3.46,3
-160186513,Biruk Shiferaw,Civil Engineering,3.02,2
-160186514,Dawit Mekonnen,Computer Science,2.55,3
-160186515,Natnael Desta,Electrical Engineering,2.43,5
-160186516,Liya Zeleke,Business Administration,2.02,4
-160186517,Eyob Alemu,Mathematics,3.51,4
-160186518,Bethlehem Yilma,Electrical Engineering,3.77,5
-160186519,Mikias Bekele,Mathematics,3.94,1
-160186520,Kaleb Teshome,Business Administration,3.3,5
-160186521,Yared Lemma,Computer Science,2.21,1
-160186522,Amanuel Demeke,Computer Science,3.24,5
-160186523,Eyob Yilma,Mathematics,3.71,4
-160186524,Selam Getachew,Electrical Engineering,3.85,3
-160186525,Robel Mulugeta,Computer Science,2.38,5
-160186526,Yonas Teshome,Business Administration,2.99,4
-160186527,Amanuel Abate,Electrical Engineering,2.79,4
-160186528,Mikias Demeke,Mathematics,2.21,3
-160186529,Selam Alemu,Mechanical Engine5ering,2.56,1
-160186530,Selam Shiferaw,Electrical Engineering,2.89,2
-160186531,Biruk Gebre,Physics,3.45,5
-160186532,Mikias Negash,Mechanical Engine5ering,2.54,3
-160186533,Liya Teshome,Electrical Engineering,3.26,5
-160186534,Biruk Haile,Business Administration,2.38,4
-160186535,Amanuel Girma,Software Engineering,3.32,2
-160186536,Yared Worku,Physics,2.22,2
-160186537,Robel Assefa,Business Administration,2.42,4
-160186538,Ermias Shiferaw,Physics,3.89,1
-160186539,Tsion Gebre,Physics,2.7,2
-160186540,Amanuel Lemma,Business Administration,3.32,2
-160186541,Yonas Assefa,Software Engineering,3.29,5
-160186542,Eyob Bekele,Business Administration,3.95,5
-160186543,Natnael Mengistu,Civil Engineering,3.5,3
-160186544,Biruk Teshome,Business Administration,3.68,4
-160186545,Liya Girma,Electrical Engineering,2.15,5
-160186546,Robel Shiferaw,Physics,3.4,3
-160186547,Bethlehem Teshome,Business Administration,2.21,3
-160186548,Biruk Assefa,Physics,2.91,5
-160186549,Biruk Bekele,Physics,2.67,5
-160186550,Eyob Tesfaye,Mathematics,2.16,3
-160186551,Natnael Shiferaw,Mathematics,3.72,2
-160186552,Selam Wolde,Mechanical Engine5ering,3.3,2
-160186553,Selam Getachew,Physics,2.1,2
-160186554,Fikirte Mulugeta,Mechanical Engine5ering,3.6,2
-160186555,Biruk Shiferaw,Electrical Engineering,3.77,3
-160186556,Kidist Lemma,Civil Engineering,3.58,2
-160186557,Abebe Wolde,Mathematics,3.44,2
-160186558,Kaleb Shiferaw,Business Administration,3.35,1
-160186559,Dawit Shiferaw,Electrical Engineering,2.79,4
-160186560,Dawit Getachew,Mathematics,2.43,4
-160186561,Bethlehem Alemu,Civil Engineering,2.12,5
-160186562,Bethlehem Shiferaw,Mechanical Engine5ering,2.7,5
-160186563,Yonas Girma,Civil Engineering,3.84,5
-160186564,Tsion Mekonnen,Business Administration,2.28,5
-160186565,Henok Lemma,Physics,3.8,3
-160186566,Rahel Teshome,Electrical Engineering,2.24,2
-160186567,Liya Wolde,Software Engineering,2.53,3
-160186568,Yonas Mengistu,Software Engineering,2.61,5
-160186569,Ermias Mulugeta,Physics,2.98,1
-160186570,Kaleb Shiferaw,Software Engineering,2.84,3
-160186571,Yonas Abate,Physics,2.17,3
-160186572,Natnael Wolde,Business Administration,2.42,5
-160186573,Eyob Mulugeta,Electrical Engineering,2.52,1
-160186574,Tsion Girma,Mechanical Engine5ering,3.1,5
-160186575,Yonas Negash,Civil Engineering,3.25,2
-160186576,Azeb Mengistu,Mathematics,3.74,1
-160186577,Henok Tadesse,Software Engineering,3.65,3
-160186578,Kaleb Desta,Mechanical Engine5ering,2.5,3
-160186579,Kaleb Tesfaye,Physics,3.13,2
-160186580,Biruk Mengistu,Civil Engineering,4,4
-160186581,Selamawit Worku,Electrical Engineering,2.92,3
-160186582,Henok Bekele,Physics,3.59,3
-160186583,Selamawit Mengistu,Mathematics,3.86,5
-160186584,Fikirte Haile,Electrical Engineering,2.56,1
-160186585,Tsion Assefa,Mathematics,3.72,2
-160186586,Tsion Abate,Mathematics,3.8,4
-160186587,Eyob Tesfaye,Physics,3.85,1
-160186588,Natnael Alemu,Business Administration,3.19,2
-160186589,Dawit Kebede,Mathematics,2.43,3
-160186590,Robel Fekadu,Mechanical Engine5ering,3.31,1
-160186591,Azeb Girma,Civil Engineering,2.88,3
-160186592,Ermias Tadesse,Electrical Engineering,2.64,3
-160186593,Henok Mekonnen,Computer Science,2.64,4
-160186594,Yared Demeke,Mathematics,2.5,3
-160186595,Yonas Worku,Business Administration,2.62,4
-160186596,Robel Haile,Physics,2.13,5
-160186597,Liya Lemma,Computer Science,2.39,1
-160186598,Kidist Assefa,Software Engineering,3.58,2
-160186599,Tigist Assefa,Mechanical Engine5ering,2.24,3
-160186600,Natnael Teshome,Physics,2.44,4
-160186601,Azeb Shiferaw,Physics,3.48,1
-160186602,Mikias Demeke,Physics,2.8,3
-160186603,Liya Yilma,Mechanical Engine5ering,3.11,2
-160186604,Yared Lemma,Software Engineering,3.57,4
-160186605,Dawit Girma,Electrical Engineering,3.04,3
-160186606,Fikirte Mulugeta,Mechanical Engine5ering,3.01,5
-160186607,Meron Teshome,Electrical Engineering,3.3,5
-160186608,Henok Negash,Mathematics,2.59,4
-160186609,Fikirte Girma,Physics,3.47,4
-160186610,Yared Mekonnen,Physics,2.9,1
-160186611,Selamawit Kebede,Software Engineering,3.94,1
-160186612,Henok Girma,Business Administration,2.43,2
-160186613,Ermias Negash,Mathematics,2.58,3
-160186614,Natnael Mekonnen,Mechanical Engine5ering,3.04,4
-160186615,Bethlehem Yilma,Physics,2.45,2
-160186616,Henok Zeleke,Electrical Engineering,3.55,2
-160186617,Selam Yilma,Software Engineering,3.72,2
-160186618,Azeb Tadesse,Electrical Engineering,3.21,3
-160186619,Tsion Lemma,Business Administration,2.37,5
-160186620,Azeb Tadesse,Mechanical Engine5ering,2.01,1
-160186621,Hiwot Tadesse,Computer Science,4,5
-160186622,Rahel Teshome,Physics,2.96,4
-160186623,Hiwot Lemma,Physics,2.86,5
-160186624,Meron Tesfaye,Software Engineering,2.25,5
-160186625,Hiwot Negash,Mechanical Engine5ering,2.74,5
-160186626,Fikirte Zeleke,Business Administration,3.37,3
-160186627,Liya Shiferaw,Computer Science,3.75,2
-160186628,Liya Mengistu,Computer Science,3.01,2
-160186629,Rahel Shiferaw,Computer Science,3.43,1
-160186630,Liya Mekonnen,Mathematics,2.8,5
-160186631,Dawit Alemu,Mechanical Engine5ering,3.27,1
-160186632,Azeb Tadesse,Electrical Engineering,3.55,3
-160186633,Liya Fekadu,Business Administration,3.98,4
-160186634,Rahel Mengistu,Mechanical Engine5ering,2.14,3
-160186635,Azeb Yilma,Business Administration,2.14,4
-160186636,Kidist Tesfaye,Civil Engineering,2.94,5
-160186637,Azeb Girma,Mechanical Engine5ering,2.44,4
-160186638,Fikirte Abate,Business Administration,2.29,2
-160186639,Meron Haile,Mathematics,3.09,1
-160186640,Kidist Assefa,Business Administration,2.14,2
-160186641,Henok Desta,Physics,2.79,4
-160186642,Dawit Gebre,Mechanical Engine5ering,3.8,4
-160186643,Hiwot Getachew,Software Engineering,3.59,5
-160186644,Abebe Getachew,Electrical Engineering,2.97,4
-160186645,Selamawit Girma,Mechanical Engine5ering,2.13,2
-160186646,Dawit Desta,Business Administration,2.69,3
-160186647,Kidist Bekele,Software Engineering,3.14,3
-160186648,Hiwot Mulugeta,Mechanical Engine5ering,3.49,3
-160186649,Yared Mengistu,Business Administration,3.54,1
-160186650,Tsion Wolde,Physics,3.31,3
-160186651,Ermias Assefa,Civil Engineering,2.37,4
-160186652,Henok Girma,Physics,3.03,2
-160186653,Henok Zeleke,Software Engineering,2.75,4
-160186654,Dawit Bekele,Computer Science,3.49,4
-160186655,Tigist Teshome,Business Administration,3.92,4
-160186656,Ermias Tesfaye,Computer Science,3.45,2
-160186657,Abebe Assefa,Electrical Engineering,3.88,2
-160186658,Kaleb Wolde,Physics,2.71,4
-160186659,Amanuel Getachew,Physics,3.49,1
-160186660,Kidist Haile,Mechanical Engine5ering,3.46,3
-160186661,Yared Mengistu,Mathematics,3.15,1
-160186662,Yonas Girma,Civil Engineering,3.84,5
-160186663,Dawit Fekadu,Physics,3.96,1
-160186664,Liya Yilma,Electrical Engineering,2.45,1
-160186665,Hiwot Bekele,Electrical Engineering,3.39,3
-160186666,Yared Wolde,Civil Engineering,3.59,5
-160186667,Yared Lemma,Civil Engineering,2.5,2
-160186668,Abebe Negash,Electrical Engineering,2.3,2
-160186669,Yonas Kebede,Mechanical Engine5ering,2.26,3
-160186670,Selamawit Gebre,Electrical Engineering,2.8,4
-160186671,Tsion Haile,Physics,3.6,4
-160186672,Liya Mekonnen,Electrical Engineering,2.78,5
-160186673,Amanuel Mekonnen,Physics,3.55,4
-160186674,Dawit Tadesse,Mathematics,2.57,3
-160186675,Yared Gebre,Physics,3.7,3
-160186676,Eyob Alemu,Electrical Engineering,2.11,1
-160186677,Rahel Haile,Electrical Engineering,3.79,2
-160186678,Bethlehem Shiferaw,Electrical Engineering,3.93,4
-160186679,Henok Negash,Software Engineering,2.82,5
-160186680,Amanuel Demeke,Civil Engineering,2.24,1
-160186681,Hiwot Shiferaw,Business Administration,3.73,5
-160186682,Abebe Yilma,Mathematics,3.86,5
-160186683,Bethlehem Gebre,Civil Engineering,3.18,5
-160186684,Meron Bekele,Computer Science,2.75,5
-160186685,Ermias Alemu,Mechanical Engine5ering,3.16,2
-160186686,Kaleb Mekonnen,Electrical Engineering,3.27,4
-160186687,Eyob Haile,Business Administration,2.61,2
-160186688,Liya Wolde,Business Administration,2.95,4
-160186689,Amanuel Mengistu,Business Administration,2.58,2
-160186690,Henok Negash,Civil Engineering,4,5
-160186691,Kidist Kebede,Computer Science,2.54,4
-160186692,Selam Wolde,Business Administration,3.95,3
-160186693,Yonas Abate,Computer Science,3.89,1
-160186694,Mikias Haile,Mechanical Engine5ering,3.59,2
-160186695,Mikias Shiferaw,Mathematics,3.93,3
-160186696,Dawit Zeleke,Physics,2.32,5
-160186697,Henok Gebre,Mathematics,3.74,2
-160186698,Liya Shiferaw,Electrical Engineering,3.85,5
-160186699,Meron Alemu,Physics,3.83,3
-160186700,Hiwot Negash,Computer Science,3.15,5
-160186701,Kaleb Shiferaw,Electrical Engineering,3.99,3
-160186702,Robel Tadesse,Software Engineering,3.5,2
-160186703,Ermias Girma,Physics,3.12,5
-160186704,Eyob Demeke,Mathematics,3.61,3
-160186705,Amanuel Gebre,Physics,2.69,2
-160186706,Natnael Assefa,Software Engineering,2.86,4
-160186707,Robel Shiferaw,Mathematics,2.17,2
-160186708,Henok Haile,Physics,2.04,3
-160186709,Meron Mulugeta,Mechanical Engine5ering,3.78,5
-160186710,Tigist Yilma,Civil Engineering,3.34,4
-160186711,Rahel Fekadu,Computer Science,2.05,5
-160186712,Kaleb Bekele,Mathematics,2.38,4
-160186713,Kidist Teshome,Mathematics,3.61,4
-160186714,Robel Tadesse,Mathematics,2.71,5
-160186715,Amanuel Desta,Mathematics,2.62,5
-160186716,Amanuel Kebede,Software Engineering,3.66,2
-160186717,Kidist Assefa,Computer Science,3.71,1
-160186718,Amanuel Gebre,Computer Science,2.03,2
-160186719,Selam Getachew,Physics,2.99,1
-160186720,Meron Teshome,Civil Engineering,2.25,4
-160186721,Henok Fekadu,Business Administration,2.21,1
-160186722,Azeb Girma,Business Administration,2.89,5
-160186723,Kaleb Teshome,Mathematics,2.19,4
-160186724,Biruk Gebre,Mathematics,2.37,2
-160186725,Selamawit Assefa,Computer Science,3.83,4
-160186726,Yonas Getachew,Electrical Engineering,2.22,1
-160186727,Tigist Abate,Electrical Engineering,2.5,3
-160186728,Yonas Worku,Software Engineering,3.14,1
-160186729,Hiwot Worku,Software Engineering,3.92,5
-160186730,Yonas Mulugeta,Mathematics,3.9,2
-160186731,Yonas Demeke,Software Engineering,2.09,1
-160186732,Rahel Bekele,Mechanical Engine5ering,2.69,4
-160186733,Yonas Shiferaw,Computer Science,3.07,4
-160186734,Robel Mekonnen,Electrical Engineering,2.59,5
-160186735,Hiwot Alemu,Mathematics,3.47,1
-160186736,Meron Zeleke,Electrical Engineering,2.54,2
-160186737,Meron Yilma,Software Engineering,3.99,5
-160186738,Fikirte Girma,Computer Science,2.45,5
-160186739,Mikias Zeleke,Mechanical Engine5ering,3.47,3
-160186740,Liya Fekadu,Physics,2.54,2
-160186741,Liya Tadesse,Business Administration,2.28,5
-160186742,Kaleb Shiferaw,Electrical Engineering,2.64,1
-160186743,Tsion Tesfaye,Electrical Engineering,2.72,2
-160186744,Abebe Lemma,Computer Science,3.15,4
-160186745,Tigist Tadesse,Mechanical Engine5ering,3.61,4
-160186746,Bethlehem Bekele,Software Engineering,3.95,2
-160186747,Yared Negash,Software Engineering,2.97,4
-160186748,Rahel Gebre,Mathematics,3.64,5
-160186749,Dawit Tesfaye,Mechanical Engine5ering,2.78,4
-160186750,Natnael Zeleke,Physics,2.48,3
-160186751,Kaleb Bekele,Mechanical Engine5ering,2.69,3
-160186752,Mikias Mekonnen,Business Administration,3.52,2
-160186753,Natnael Abate,Computer Science,3.08,5
-160186754,Selam Gebre,Computer Science,3.35,3
-160186755,Fikirte Wolde,Mathematics,3.98,5
-160186756,Eyob Getachew,Physics,2.46,1
-160186757,Biruk Getachew,Physics,3.06,3
-160186758,Natnael Wolde,Computer Science,3.11,3
-160186759,Abebe Tesfaye,Electrical Engineering,2.23,5
-160186760,Rahel Kebede,Physics,3.45,4
-160186761,Hiwot Gebre,Computer Science,3.68,1
-160186762,Robel Negash,Physics,3.03,2
-160186763,Hiwot Assefa,Mathematics,3.83,1
-160186764,Amanuel Negash,Mathematics,3.73,5
-160186765,Azeb Negash,Software Engineering,2.91,1
-160186766,Selam Teshome,Business Administration,3.53,1
-160186767,Fikirte Abate,Electrical Engineering,3.8,4
-160186768,Selam Alemu,Mechanical Engine5ering,2,3
-160186769,Eyob Assefa,Electrical Engineering,2.33,4
-160186770,Bethlehem Bekele,Electrical Engineering,3.37,4
-160186771,Biruk Abate,Physics,2.39,5
-160186772,Bethlehem Alemu,Mechanical Engine5ering,3.2,2
-160186773,Selamawit Alemu,Computer Science,3.41,1
-160186774,Bethlehem Tadesse,Civil Engineering,2.87,1
-160186775,Bethlehem Teshome,Mechanical Engine5ering,2.13,4
-160186776,Henok Tadesse,Business Administration,2.45,4
-160186777,Yonas Girma,Electrical Engineering,2.9,5
-160186778,Liya Wolde,Electrical Engineering,3.9,3
-160186779,Fikirte Mengistu,Civil Engineering,2.91,4
-160186780,Dawit Demeke,Computer Science,2.52,5
-160186781,Kidist Kebede,Computer Science,2.75,3
-160186782,Rahel Tadesse,Electrical Engineering,2.68,3
-160186783,Mikias Lemma,Computer Science,2.53,2
-160186784,Azeb Lemma,Computer Science,3.59,3
-160186785,Tigist Assefa,Electrical Engineering,2.44,5
-160186786,Abebe Assefa,Software Engineering,3.37,1
-160186787,Bethlehem Teshome,Computer Science,2.01,4
-160186788,Eyob Zeleke,Software Engineering,3.58,2
-160186789,Kaleb Getachew,Mechanical Engine5ering,3.69,4
-160186790,Meron Negash,Computer Science,2.74,4
-160186791,Henok Worku,Mathematics,3.15,4
-160186792,Rahel Demeke,Electrical Engineering,2.54,3
-160186793,Robel Tadesse,Software Engineering,3.77,5
-160186794,Tigist Zeleke,Mathematics,2.52,5
-160186795,Selamawit Mulugeta,Computer Science,3.93,4
-160186796,Meron Tesfaye,Mechanical Engine5ering,2.87,2
-160186797,Meron Yilma,Mathematics,2.7,1
-160186798,Natnael Wolde,Mechanical Engine5ering,2.87,2
-160186799,Abebe Desta,Civil Engineering,2.87,5
-160186800,Kaleb Desta,Civil Engineering,3.27,2
-160186801,Yared Bekele,Civil Engineering,3.45,4
-160186802,Tigist Worku,Electrical Engineering,3.73,2
-160186803,Abebe Teshome,Mechanical Engine5ering,2.25,1
-160186804,Ermias Yilma,Mechanical Engine5ering,3.2,2
-160186805,Azeb Gebre,Mathematics,3.16,4
-160186806,Liya Shiferaw,Mechanical Engine5ering,4,1
-160186807,Yared Tadesse,Civil Engineering,3.09,3
-160186808,Tigist Zeleke,Electrical Engineering,2.89,2
-160186809,Mikias Bekele,Civil Engineering,3.87,3
-160186810,Bethlehem Mekonnen,Mathematics,2.98,2
-160186811,Selam Gebre,Software Engineering,3.62,2
-160186812,Abebe Fekadu,Electrical Engineering,3.64,3
-160186813,Rahel Negash,Electrical Engineering,3.87,5
-160186814,Selamawit Assefa,Civil Engineering,3.74,1
-160186815,Abebe Girma,Electrical Engineering,2.96,2
-160186816,Yared Fekadu,Computer Science,2.09,3
-160186817,Meron Demeke,Software Engineering,2.54,3
-160186818,Selamawit Abate,Mechanical Engine5ering,3.23,1
-160186819,Mikias Zeleke,Physics,2.73,5
-160186820,Rahel Mekonnen,Computer Science,2.82,4
-160186821,Dawit Zeleke,Civil Engineering,3.7,1
-160186822,Kidist Haile,Software Engineering,2.89,2
-160186823,Tsion Gebre,Mathematics,2.75,3
-160186824,Tigist Kebede,Electrical Engineering,2.32,4
-160186825,Liya Assefa,Mathematics,3.89,5
-160186826,Selamawit Getachew,Computer Science,4,2
-160186827,Eyob Demeke,Computer Science,3.72,4
-160186828,Dawit Mekonnen,Electrical Engineering,2.38,1
-160186829,Kaleb Bekele,Civil Engineering,3.82,5
-160186830,Tsion Haile,Mechanical Engine5ering,2.4,4
-160186831,Fikirte Shiferaw,Civil Engineering,2.72,5
-160186832,Abebe Mengistu,Civil Engineering,2.15,4
-160186833,Rahel Tadesse,Physics,3.98,1
-160186834,Kidist Haile,Computer Science,3.88,1
-160186835,Rahel Kebede,Business Administration,2.75,2
-160186836,Hiwot Tadesse,Physics,3.49,2
-160186837,Ermias Teshome,Business Administration,3.57,5
-160186838,Yonas Tadesse,Mathematics,3.44,2
-160186839,Yonas Demeke,Business Administration,3.71,2
-160186840,Bethlehem Alemu,Physics,3.85,2
-160186841,Selamawit Alemu,Software Engineering,3.51,4
-160186842,Liya Girma,Civil Engineering,3.87,1
-160186843,Eyob Shiferaw,Mathematics,2.6,5
-160186844,Selamawit Tadesse,Computer Science,2.07,5
-160186845,Liya Alemu,Mathematics,2.37,1
-160186846,Dawit Yilma,Business Administration,2.05,3
-160186847,Kaleb Worku,Civil Engineering,3.76,4
-160186848,Kidist Teshome,Mechanical Engine5ering,3.19,2
-160186849,Selamawit Girma,Electrical Engineering,2.53,2
-160186850,Fikirte Girma,Computer Science,3.42,3
-160186851,Robel Tesfaye,Software Engineering,3.11,4
-160186852,Hiwot Haile,Computer Science,2.92,1
-160186853,Henok Mekonnen,Mechanical Engine5ering,3.07,4
-160186854,Abebe Kebede,Computer Science,2.39,4
-160186855,Henok Mulugeta,Electrical Engineering,2,3
-160186856,Amanuel Mekonnen,Physics,3.54,2
-160186857,Natnael Desta,Electrical Engineering,2.71,4
-160186858,Rahel Bekele,Electrical Engineering,3.13,1
-160186859,Azeb Getachew,Mathematics,3.02,4
-160186860,Azeb Mulugeta,Mechanical Engine5ering,2.11,4
-160186861,Fikirte Tesfaye,Computer Science,3.35,1
-160186862,Selam Mulugeta,Mathematics,3.02,4
-160186863,Ermias Alemu,Electrical Engineering,2.89,3
-160186864,Natnael Tadesse,Electrical Engineering,3.3,4
-160186865,Dawit Mulugeta,Electrical Engineering,3.54,4
-160186866,Biruk Mengistu,Physics,2.37,2
-160186867,Kaleb Tadesse,Physics,3.99,2
-160186868,Yonas Demeke,Mathematics,2.61,3
-160186869,Eyob Getachew,Business Administration,2.5,1
-160186870,Hiwot Getachew,Business Administration,3.7,3
-160186871,Robel Lemma,Mathematics,3.77,4
-160186872,Selam Shiferaw,Mathematics,3.32,1
-160186873,Ermias Teshome,Mathematics,3.99,2
-160186874,Yared Bekele,Electrical Engineering,3.38,5
-160186875,Azeb Fekadu,Civil Engineering,3.92,2
-160186876,Selamawit Getachew,Mathematics,2.66,4
-160186877,Kidist Kebede,Mathematics,2.35,2
-160186878,Kaleb Tadesse,Mechanical Engine5ering,3.12,1
-160186879,Hiwot Fekadu,Software Engineering,2.17,4
-160186880,Biruk Bekele,Physics,3.79,3
-160186881,Rahel Haile,Software Engineering,2.43,3
-160186882,Dawit Gebre,Electrical Engineering,2.56,4
-160186883,Liya Bekele,Civil Engineering,2.52,4
-160186884,Amanuel Demeke,Electrical Engineering,2.33,5
-160186885,Liya Wolde,Physics,3.63,4
-160186886,Kaleb Negash,Computer Science,3.4,1
-160186887,Yared Shiferaw,Electrical Engineering,3.22,1
-160186888,Azeb Girma,Computer Science,3.54,3
-160186889,Abebe Mengistu,Business Administration,3.74,1
-160186890,Tsion Desta,Computer Science,3.94,2
-160186891,Tigist Abate,Computer Science,2.12,3
-160186892,Henok Fekadu,Mathematics,3.74,4
-160186893,Fikirte Abate,Mathematics,2.42,3
-160186894,Robel Mekonnen,Mechanical Engine5ering,2.88,4
-160186895,Eyob Lemma,Physics,2.36,2
-160186896,Fikirte Zeleke,Physics,3.91,3
-160186897,Ermias Wolde,Mathematics,2.64,3
-160186898,Robel Girma,Business Administration,3.92,4
-160186899,Dawit Desta,Software Engineering,2.59,5
-160186900,Hiwot Worku,Computer Science,2.94,1
-160186901,Rahel Haile,Physics,3.82,3
-160186902,Bethlehem Mekonnen,Computer Science,2.42,5
-160186903,Fikirte Assefa,Physics,2.24,5
-160186904,Dawit Kebede,Business Administration,3.93,4
-160186905,Bethlehem Alemu,Software Engineering,2.31,1
-160186906,Kidist Worku,Electrical Engineering,2.57,2
-160186907,Meron Lemma,Civil Engineering,2.02,4
-160186908,Yonas Shiferaw,Software Engineering,3.75,4
-160186909,Yonas Worku,Electrical Engineering,3.91,5
-160186910,Biruk Getachew,Software Engineering,3.77,4
-160186911,Mikias Yilma,Physics,2.88,1
-160186912,Selamawit Tesfaye,Physics,3.55,2
-160186913,Ermias Lemma,Civil Engineering,3.25,5
-160186914,Yared Lemma,Physics,3.41,4
-160186915,Yared Fekadu,Mechanical Engine5ering,2.74,3
-160186916,Amanuel Getachew,Electrical Engineering,3.19,3
-160186917,Tsion Mulugeta,Computer Science,3.3,1
-160186918,Hiwot Demeke,Electrical Engineering,3.17,3
-160186919,Kidist Lemma,Mathematics,2.16,4
-160186920,Azeb Tesfaye,Physics,2.22,2
-160186921,Dawit Shiferaw,Physics,3.53,2
-160186922,Meron Desta,Civil Engineering,2.42,2
-160186923,Selam Mekonnen,Software Engineering,3.6,2
-160186924,Mikias Lemma,Electrical Engineering,2.5,4
-160186925,Azeb Yilma,Mechanical Engine5ering,2.12,3
-160186926,Azeb Fekadu,Electrical Engineering,3.36,3
-160186927,Azeb Worku,Computer Science,3.55,5
-160186928,Biruk Tadesse,Mechanical Engine5ering,3.97,3
-160186929,Hiwot Haile,Electrical Engineering,2.81,3
-160186930,Liya Alemu,Mechanical Engine5ering,3.47,5
-160186931,Mikias Assefa,Software Engineering,3.63,3
-160186932,Rahel Desta,Computer Science,2.4,5
-160186933,Selam Wolde,Mechanical Engine5ering,3.29,2
-160186934,Rahel Negash,Computer Science,2.49,2
-160186935,Bethlehem Zeleke,Software Engineering,3.68,4
-160186936,Biruk Mulugeta,Business Administration,3.08,2
-160186937,Fikirte Zeleke,Civil Engineering,2.48,4
-160186938,Robel Alemu,Civil Engineering,2.61,1
-160186939,Robel Kebede,Business Administration,3.8,5
-160186940,Selamawit Mulugeta,Computer Science,3.57,5
-160186941,Yared Girma,Computer Science,3.11,4
-160186942,Hiwot Assefa,Civil Engineering,3.81,3
-160186943,Selam Negash,Physics,2.08,4
-160186944,Abebe Negash,Computer Science,2.7,1
-160186945,Robel Alemu,Mechanical Engine5ering,3.01,1
-160186946,Meron Tadesse,Mathematics,3.06,4
-160186947,Abebe Assefa,Mathematics,2.03,4
-160186948,Azeb Negash,Electrical Engineering,3.3,4
-160186949,Hiwot Negash,Software Engineering,3.72,5
-160186950,Liya Gebre,Mechanical Engine5ering,2.18,4
-160186951,Kidist Lemma,Mathematics,2.18,3
-160186952,Yonas Fekadu,Electrical Engineering,2.46,2
-160186953,Dawit Mulugeta,Physics,3.46,1
-160186954,Selamawit Desta,Business Administration,2.98,3
-160186955,Fikirte Tesfaye,Civil Engineering,2.58,2
-160186956,Bethlehem Desta,Computer Science,3.44,1
-160186957,Selamawit Haile,Physics,3.44,1
-160186958,Yared Teshome,Mechanical Engine5ering,2.89,4
-160186959,Liya Kebede,Electrical Engineering,2.24,1
-160186960,Liya Lemma,Mathematics,2.16,1
-160186961,Azeb Mekonnen,Physics,2.48,4
-160186962,Tsion Fekadu,Physics,2.15,1
-160186963,Meron Tadesse,Mathematics,2.53,1
-160186964,Fikirte Abate,Civil Engineering,2.67,4
-160186965,Fikirte Wolde,Software Engineering,2.7,3
-160186966,Biruk Yilma,Business Administration,3.99,2
-160186967,Hiwot Demeke,Computer Science,2.01,2
-160186968,Liya Getachew,Business Administration,2.8,1
-160186969,Robel Yilma,Electrical Engineering,3.39,5
-160186970,Dawit Demeke,Mathematics,2.95,1
-160186971,Tsion Getachew,Physics,2.56,4
-160186972,Fikirte Girma,Physics,3.91,5
-160186973,Biruk Worku,Civil Engineering,3.85,1
-160186974,Bethlehem Wolde,Business Administration,2.45,4
-160186975,Ermias Demeke,Electrical Engineering,3.31,3
-160186976,Henok Haile,Mathematics,2.29,5
-160186977,Rahel Tesfaye,Software Engineering,2.57,2
-160186978,Bethlehem Gebre,Electrical Engineering,2.67,5
-160186979,Kidist Wolde,Mechanical Engine5ering,3.11,5
-160186980,Tsion Negash,Electrical Engineering,2.19,5
-160186981,Robel Abate,Business Administration,2.62,2
-160186982,Dawit Girma,Civil Engineering,2.09,4
-160186983,Natnael Haile,Mechanical Engine5ering,3.9,2
-160186984,Amanuel Tesfaye,Mechanical Engine5ering,3.54,4
-160186985,Yonas Bekele,Mathematics,3.9,4
-160186986,Tsion Worku,Civil Engineering,2.1,4
-160186987,Azeb Mengistu,Business Administration,2.64,3
-160186988,Robel Desta,Computer Science,3.2,2
-160186989,Hiwot Tadesse,Electrical Engineering,3.26,4
-160186990,Dawit Mulugeta,Physics,3.28,3
-160186991,Mikias Demeke,Software Engineering,3.81,4
-160186992,Henok Tadesse,Software Engineering,3.72,1
-160186993,Azeb Negash,Business Administration,2.96,1
-160186994,Eyob Gebre,Mechanical Engine5ering,3.15,3
-160186995,Selamawit Yilma,Civil Engineering,3.15,5
-160186996,Rahel Lemma,Electrical Engineering,3.06,2
-160186997,Fikirte Desta,Physics,3.68,2
-160186998,Selam Assefa,Mathematics,2.16,2
-160186999,Henok Zeleke,Mechanical Engine5ering,2.72,2
+160186000,Robel Tadesse,Mathematics,2.76,2
+160186001,Robel Zeleke,Computer Science,3.87,4
+160186002,Selam Worku,Electrical Engineering,2.2,5
+160186003,Kaleb Getachew,Computer Science,2.11,1
+160186004,Ermias Wolde,Software Engineering,2.77,4
+160186005,Meron Gebre,Physics,2.53,5
+160186006,Ermias Mengistu,Software Engineering,2.76,3
+160186007,Azeb Teshome,Civil Engineering,2.98,5
+160186008,Abebe Bekele,Physics,3.11,1
+160186009,Abebe Tesfaye,Electrical Engineering,2.98,5
+160186010,Selamawit Shiferaw,Software Engineering,3.39,4
+160186011,Yared Tadesse,Physics,3.64,5
+160186012,Selam Fekadu,Electrical Engineering,2.81,5
+160186013,Amanuel Alemu,Electrical Engineering,2.8,3
+160186014,Fikirte Negash,Mathematics,3.57,4
+160186015,Eyob Girma,Mathematics,3.39,1
+160186016,Fikirte Bekele,Physics,2.47,5
+160186017,Dawit Abate,Business Administration,3.97,4
+160186018,Ermias Zeleke,Software Engineering,2.45,5
+160186019,Dawit Lemma,Mechanical Engine5ering,2.87,4
+160186020,Ermias Mulugeta,Software Engineering,3.84,1
+160186021,Rahel Shiferaw,Civil Engineering,2.83,1
+160186022,Biruk Mengistu,Computer Science,2.24,3
+160186023,Azeb Girma,Mathematics,3.7,2
+160186024,Hiwot Mekonnen,Business Administration,4,1
+160186025,Robel Mekonnen,Business Administration,3.11,5
+160186026,Kaleb Bekele,Civil Engineering,2.06,4
+160186027,Natnael Negash,Mathematics,3.84,2
+160186028,Kaleb Shiferaw,Civil Engineering,3.81,3
+160186029,Amanuel Alemu,Electrical Engineering,3.39,4
+160186030,Dawit Mengistu,Mechanical Engine5ering,2.01,4
+160186031,Bethlehem Shiferaw,Mathematics,3.98,4
+160186032,Robel Kebede,Mathematics,2.8,3
+160186033,Ermias Wolde,Computer Science,3.01,4
+160186034,Abebe Tesfaye,Software Engineering,2.85,2
+160186035,Fikirte Worku,Mechanical Engine5ering,2,2
+160186036,Yonas Haile,Mechanical Engine5ering,3.22,2
+160186037,Selam Teshome,Business Administration,2.73,1
+160186038,Tigist Alemu,Mechanical Engine5ering,3.55,3
+160186039,Natnael Assefa,Civil Engineering,3.64,1
+160186040,Eyob Bekele,Computer Science,3.94,1
+160186041,Tsion Demeke,Civil Engineering,3.83,2
+160186042,Biruk Negash,Business Administration,2.97,4
+160186043,Fikirte Assefa,Mechanical Engine5ering,2.23,3
+160186044,Eyob Teshome,Software Engineering,3.47,2
+160186045,Abebe Tesfaye,Electrical Engineering,3.09,4
+160186046,Ermias Yilma,Business Administration,2.08,2
+160186047,Henok Demeke,Mechanical Engine5ering,3.28,3
+160186048,Azeb Zeleke,Computer Science,3.28,4
+160186049,Natnael Tadesse,Mathematics,2.84,2
+160186050,Eyob Teshome,Software Engineering,2.3,4
+160186051,Ermias Haile,Computer Science,2.95,2
+160186052,Rahel Lemma,Software Engineering,2.22,5
+160186053,Yared Getachew,Mechanical Engine5ering,2.6,1
+160186054,Natnael Mulugeta,Business Administration,2.87,5
+160186055,Eyob Haile,Physics,2.55,5
+160186056,Robel Gebre,Mathematics,2.69,2
+160186057,Ermias Negash,Computer Science,3.33,4
+160186058,Mikias Demeke,Computer Science,3.02,4
+160186059,Tsion Alemu,Physics,3.64,3
+160186060,Mikias Fekadu,Civil Engineering,2.91,5
+160186061,Dawit Abate,Civil Engineering,3.4,2
+160186062,Fikirte Fekadu,Physics,3.28,2
+160186063,Kidist Kebede,Civil Engineering,3.74,2
+160186064,Mikias Alemu,Civil Engineering,2.54,2
+160186065,Robel Demeke,Business Administration,3.19,4
+160186066,Eyob Getachew,Civil Engineering,3.62,3
+160186067,Amanuel Yilma,Physics,2.27,5
+160186068,Yared Mengistu,Electrical Engineering,3.56,2
+160186069,Yared Gebre,Physics,3.04,2
+160186070,Yonas Bekele,Electrical Engineering,3.95,2
+160186071,Natnael Teshome,Software Engineering,3.09,3
+160186072,Dawit Worku,Mechanical Engine5ering,2.32,4
+160186073,Eyob Tesfaye,Civil Engineering,3.6,1
+160186074,Robel Wolde,Mechanical Engine5ering,3.05,1
+160186075,Selam Tadesse,Electrical Engineering,2.68,1
+160186076,Yonas Gebre,Mechanical Engine5ering,3.9,3
+160186077,Ermias Wolde,Computer Science,3.87,2
+160186078,Selamawit Teshome,Software Engineering,2.57,4
+160186079,Kaleb Haile,Civil Engineering,3.78,4
+160186080,Dawit Bekele,Business Administration,2.82,1
+160186081,Eyob Yilma,Mathematics,3.15,2
+160186082,Bethlehem Yilma,Electrical Engineering,4,1
+160186083,Mikias Lemma,Business Administration,3.29,1
+160186084,Rahel Demeke,Mathematics,3.71,3
+160186085,Azeb Zeleke,Electrical Engineering,2.37,4
+160186086,Rahel Yilma,Software Engineering,2.49,1
+160186087,Abebe Gebre,Software Engineering,2.79,2
+160186088,Azeb Desta,Mechanical Engine5ering,2.03,4
+160186089,Kaleb Bekele,Physics,3.89,4
+160186090,Meron Fekadu,Electrical Engineering,2.76,1
+160186091,Eyob Haile,Physics,3.91,4
+160186092,Kidist Mengistu,Civil Engineering,3.43,3
+160186093,Bethlehem Haile,Computer Science,3.82,2
+160186094,Amanuel Abate,Business Administration,3.72,5
+160186095,Fikirte Mekonnen,Civil Engineering,3.45,1
+160186096,Natnael Yilma,Software Engineering,2.9,5
+160186097,Bethlehem Demeke,Civil Engineering,3.06,2
+160186098,Yonas Shiferaw,Physics,3.81,5
+160186099,Henok Bekele,Business Administration,2.05,2
+160186100,Yared Demeke,Mechanical Engine5ering,3.92,1
+160186101,Meron Teshome,Mathematics,2.89,2
+160186102,Bethlehem Mekonnen,Civil Engineering,3.25,4
+160186103,Mikias Lemma,Physics,3.68,1
+160186104,Selam Mengistu,Business Administration,2.82,2
+160186105,Hiwot Wolde,Computer Science,2.6,2
+160186106,Amanuel Bekele,Electrical Engineering,3.36,2
+160186107,Natnael Tadesse,Mathematics,3.27,2
+160186108,Ermias Gebre,Mechanical Engine5ering,2.62,3
+160186109,Liya Yilma,Mathematics,2.14,2
+160186110,Tigist Zeleke,Computer Science,3.6,1
+160186111,Bethlehem Alemu,Mechanical Engine5ering,2.16,3
+160186112,Meron Desta,Mechanical Engine5ering,2.82,5
+160186113,Azeb Zeleke,Mathematics,2.34,4
+160186114,Abebe Assefa,Physics,3.41,5
+160186115,Eyob Mekonnen,Physics,2.84,5
+160186116,Tsion Demeke,Civil Engineering,2.8,2
+160186117,Dawit Wolde,Electrical Engineering,2.09,2
+160186118,Azeb Teshome,Mechanical Engine5ering,2.52,4
+160186119,Biruk Tesfaye,Physics,2.01,5
+160186120,Biruk Tesfaye,Civil Engineering,2.43,4
+160186121,Robel Bekele,Mathematics,3.03,1
+160186122,Yonas Tadesse,Physics,2.57,1
+160186123,Liya Lemma,Software Engineering,3.83,4
+160186124,Dawit Yilma,Mathematics,3.29,3
+160186125,Rahel Worku,Software Engineering,3.03,5
+160186126,Mikias Desta,Civil Engineering,3.14,2
+160186127,Dawit Desta,Civil Engineering,2.46,5
+160186128,Amanuel Alemu,Electrical Engineering,2.51,1
+160186129,Yared Tadesse,Physics,3.08,4
+160186130,Kidist Lemma,Software Engineering,3.84,5
+160186131,Henok Gebre,Business Administration,2.05,4
+160186132,Henok Alemu,Mathematics,3.12,2
+160186133,Robel Mekonnen,Computer Science,2.78,5
+160186134,Fikirte Fekadu,Electrical Engineering,3.02,4
+160186135,Selamawit Kebede,Computer Science,2.12,5
+160186136,Ermias Gebre,Mathematics,3.85,4
+160186137,Fikirte Assefa,Civil Engineering,3.1,5
+160186138,Tigist Mekonnen,Software Engineering,2.93,5
+160186139,Dawit Zeleke,Mathematics,3.69,5
+160186140,Hiwot Haile,Software Engineering,2.84,1
+160186141,Hiwot Yilma,Computer Science,3.8,3
+160186142,Selamawit Kebede,Software Engineering,3.97,5
+160186143,Amanuel Getachew,Physics,3.92,1
+160186144,Eyob Demeke,Mechanical Engine5ering,2.81,5
+160186145,Rahel Teshome,Mathematics,3.94,5
+160186146,Biruk Worku,Mathematics,3.56,1
+160186147,Fikirte Negash,Physics,3.91,4
+160186148,Fikirte Alemu,Software Engineering,2.62,1
+160186149,Kaleb Bekele,Mechanical Engine5ering,2.65,5
+160186150,Tsion Worku,Business Administration,2.54,2
+160186151,Robel Girma,Business Administration,2.11,4
+160186152,Henok Negash,Software Engineering,2.13,3
+160186153,Natnael Fekadu,Mathematics,3.05,3
+160186154,Amanuel Mengistu,Computer Science,3.01,5
+160186155,Hiwot Wolde,Computer Science,3.73,3
+160186156,Selamawit Wolde,Software Engineering,3.02,1
+160186157,Eyob Wolde,Electrical Engineering,2.53,1
+160186158,Kidist Girma,Civil Engineering,3.35,4
+160186159,Mikias Bekele,Business Administration,2.66,2
+160186160,Robel Demeke,Electrical Engineering,3.81,1
+160186161,Abebe Mekonnen,Business Administration,3.76,1
+160186162,Amanuel Gebre,Physics,3.25,5
+160186163,Eyob Alemu,Physics,2.24,5
+160186164,Selam Shiferaw,Business Administration,2.6,5
+160186165,Bethlehem Kebede,Computer Science,2.09,1
+160186166,Kaleb Tadesse,Electrical Engineering,2.91,5
+160186167,Amanuel Kebede,Business Administration,3.61,2
+160186168,Amanuel Getachew,Physics,3.26,1
+160186169,Kidist Teshome,Business Administration,3.28,5
+160186170,Mikias Fekadu,Physics,3.89,3
+160186171,Henok Mulugeta,Electrical Engineering,3.15,5
+160186172,Meron Haile,Electrical Engineering,2.48,4
+160186173,Azeb Desta,Mechanical Engine5ering,3.77,5
+160186174,Tsion Haile,Civil Engineering,2.67,2
+160186175,Fikirte Bekele,Software Engineering,3.15,4
+160186176,Tigist Teshome,Civil Engineering,3.97,2
+160186177,Ermias Wolde,Business Administration,3.44,1
+160186178,Kidist Tesfaye,Physics,2.58,2
+160186179,Kidist Negash,Business Administration,2.26,5
+160186180,Ermias Negash,Mechanical Engine5ering,2.99,2
+160186181,Bethlehem Kebede,Civil Engineering,3.9,3
+160186182,Kaleb Getachew,Mathematics,2.42,4
+160186183,Tigist Mengistu,Electrical Engineering,3.5,1
+160186184,Abebe Kebede,Software Engineering,2.91,4
+160186185,Hiwot Worku,Software Engineering,2.03,3
+160186186,Henok Worku,Physics,3.92,1
+160186187,Selam Teshome,Computer Science,3.5,5
+160186188,Henok Wolde,Mechanical Engine5ering,3.81,2
+160186189,Kaleb Fekadu,Mathematics,2.54,5
+160186190,Kaleb Girma,Business Administration,2.43,3
+160186191,Meron Negash,Software Engineering,2.18,5
+160186192,Amanuel Bekele,Physics,2.7,2
+160186193,Tigist Bekele,Physics,3.51,4
+160186194,Yonas Girma,Civil Engineering,2.87,5
+160186195,Biruk Wolde,Mechanical Engine5ering,2.23,2
+160186196,Tigist Haile,Physics,2.59,2
+160186197,Selam Fekadu,Business Administration,3.14,5
+160186198,Selamawit Haile,Mathematics,2.83,2
+160186199,Tsion Fekadu,Business Administration,3.76,4
+160186200,Tsion Demeke,Computer Science,2.91,2
+160186201,Dawit Getachew,Mechanical Engine5ering,3.26,3
+160186202,Eyob Worku,Mathematics,3.57,3
+160186203,Meron Fekadu,Computer Science,2.25,5
+160186204,Robel Worku,Software Engineering,2.11,2
+160186205,Amanuel Gebre,Civil Engineering,3.86,2
+160186206,Ermias Mengistu,Business Administration,2.9,4
+160186207,Tsion Wolde,Mathematics,2.34,5
+160186208,Yonas Tadesse,Software Engineering,3.17,4
+160186209,Kaleb Lemma,Mechanical Engine5ering,2.11,3
+160186210,Selam Yilma,Mechanical Engine5ering,3.93,5
+160186211,Tigist Assefa,Computer Science,3.15,2
+160186212,Amanuel Alemu,Business Administration,2.42,3
+160186213,Hiwot Getachew,Business Administration,2.69,4
+160186214,Eyob Tadesse,Physics,2.04,5
+160186215,Liya Alemu,Physics,3.01,1
+160186216,Kaleb Shiferaw,Business Administration,2.31,1
+160186217,Kidist Haile,Civil Engineering,2.15,4
+160186218,Mikias Zeleke,Electrical Engineering,2.12,3
+160186219,Fikirte Abate,Electrical Engineering,2.6,2
+160186220,Azeb Bekele,Physics,3.68,5
+160186221,Liya Haile,Business Administration,2.44,2
+160186222,Biruk Yilma,Software Engineering,2.78,2
+160186223,Selam Kebede,Mechanical Engine5ering,3.9,1
+160186224,Natnael Demeke,Mechanical Engine5ering,2.99,4
+160186225,Biruk Worku,Civil Engineering,2.6,1
+160186226,Eyob Assefa,Software Engineering,2.72,2
+160186227,Robel Fekadu,Computer Science,2.85,2
+160186228,Ermias Bekele,Mechanical Engine5ering,3.94,2
+160186229,Ermias Tadesse,Mathematics,3.21,4
+160186230,Robel Shiferaw,Mathematics,2.82,2
+160186231,Ermias Bekele,Software Engineering,2.61,5
+160186232,Kaleb Assefa,Electrical Engineering,2.01,2
+160186233,Liya Teshome,Mathematics,3.15,1
+160186234,Robel Mulugeta,Mathematics,2.48,5
+160186235,Mikias Shiferaw,Business Administration,3.08,1
+160186236,Yonas Assefa,Mechanical Engine5ering,3.02,1
+160186237,Ermias Alemu,Mechanical Engine5ering,2.77,3
+160186238,Henok Zeleke,Mechanical Engine5ering,2.03,4
+160186239,Henok Zeleke,Computer Science,2.43,4
+160186240,Biruk Shiferaw,Business Administration,2.96,3
+160186241,Abebe Haile,Electrical Engineering,3.29,3
+160186242,Ermias Lemma,Computer Science,2.22,3
+160186243,Tsion Mekonnen,Mechanical Engine5ering,3.27,4
+160186244,Amanuel Gebre,Mathematics,2.09,2
+160186245,Amanuel Shiferaw,Physics,2.73,1
+160186246,Eyob Tadesse,Physics,3.62,4
+160186247,Dawit Mulugeta,Electrical Engineering,3.95,1
+160186248,Liya Negash,Civil Engineering,3.57,3
+160186249,Eyob Mulugeta,Electrical Engineering,3.41,3
+160186250,Yared Assefa,Software Engineering,3.84,3
+160186251,Bethlehem Demeke,Mechanical Engine5ering,3.68,3
+160186252,Robel Fekadu,Mechanical Engine5ering,3.28,4
+160186253,Tigist Desta,Physics,2.43,3
+160186254,Tigist Kebede,Civil Engineering,2.74,1
+160186255,Hiwot Lemma,Software Engineering,2.81,2
+160186256,Eyob Assefa,Civil Engineering,4,1
+160186257,Bethlehem Assefa,Business Administration,3.36,5
+160186258,Natnael Desta,Electrical Engineering,3.99,4
+160186259,Azeb Tesfaye,Computer Science,2.54,3
+160186260,Henok Worku,Electrical Engineering,2.09,1
+160186261,Henok Assefa,Mechanical Engine5ering,2.5,2
+160186262,Selamawit Assefa,Software Engineering,3.22,4
+160186263,Meron Lemma,Mathematics,2.66,3
+160186264,Liya Worku,Electrical Engineering,3.81,4
+160186265,Natnael Mengistu,Physics,2.93,1
+160186266,Bethlehem Desta,Mathematics,2.39,3
+160186267,Mikias Assefa,Business Administration,3.14,2
+160186268,Tsion Wolde,Mechanical Engine5ering,3.15,2
+160186269,Meron Girma,Computer Science,2.24,2
+160186270,Selam Demeke,Physics,3.62,4
+160186271,Kaleb Tadesse,Computer Science,2.7,1
+160186272,Yonas Assefa,Civil Engineering,3.6,2
+160186273,Ermias Yilma,Physics,2.27,2
+160186274,Liya Abate,Computer Science,3.15,4
+160186275,Tsion Lemma,Civil Engineering,2.66,3
+160186276,Tigist Zeleke,Business Administration,3.98,2
+160186277,Robel Kebede,Electrical Engineering,2.71,3
+160186278,Fikirte Lemma,Mathematics,3.5,5
+160186279,Biruk Kebede,Business Administration,2.05,1
+160186280,Fikirte Desta,Software Engineering,3.63,2
+160186281,Abebe Haile,Software Engineering,3.84,2
+160186282,Biruk Gebre,Mechanical Engine5ering,2.33,1
+160186283,Henok Gebre,Civil Engineering,2.97,1
+160186284,Biruk Tesfaye,Computer Science,3.78,1
+160186285,Meron Gebre,Mechanical Engine5ering,3.65,2
+160186286,Natnael Negash,Computer Science,2.98,2
+160186287,Natnael Zeleke,Business Administration,2.5,1
+160186288,Biruk Teshome,Mechanical Engine5ering,2.86,5
+160186289,Natnael Teshome,Electrical Engineering,3.96,5
+160186290,Selamawit Teshome,Electrical Engineering,2.98,2
+160186291,Selam Tadesse,Mechanical Engine5ering,3.13,1
+160186292,Kaleb Mekonnen,Civil Engineering,3.38,1
+160186293,Selamawit Abate,Business Administration,2.16,5
+160186294,Dawit Gebre,Mathematics,2.39,5
+160186295,Fikirte Mulugeta,Physics,2.92,5
+160186296,Kaleb Abate,Mechanical Engine5ering,2.92,2
+160186297,Selam Bekele,Mathematics,2.54,2
+160186298,Tsion Girma,Mathematics,2.2,1
+160186299,Yonas Abate,Computer Science,3.27,2
+160186300,Robel Kebede,Software Engineering,3.2,2
+160186301,Tsion Demeke,Mathematics,2.86,5
+160186302,Azeb Desta,Software Engineering,3.37,5
+160186303,Amanuel Kebede,Mathematics,3.01,5
+160186304,Henok Fekadu,Business Administration,3,2
+160186305,Selamawit Alemu,Business Administration,2.17,3
+160186306,Kaleb Bekele,Mechanical Engine5ering,3.7,4
+160186307,Natnael Wolde,Electrical Engineering,2.84,1
+160186308,Azeb Mengistu,Civil Engineering,2.54,3
+160186309,Yared Gebre,Mathematics,2.18,2
+160186310,Ermias Wolde,Business Administration,2.27,1
+160186311,Eyob Fekadu,Physics,3.4,2
+160186312,Tsion Tadesse,Software Engineering,3.07,4
+160186313,Hiwot Demeke,Computer Science,3.25,5
+160186314,Kaleb Shiferaw,Mechanical Engine5ering,2.1,2
+160186315,Tigist Kebede,Business Administration,2.17,1
+160186316,Bethlehem Fekadu,Physics,3.32,5
+160186317,Meron Mekonnen,Electrical Engineering,2.19,4
+160186318,Robel Desta,Software Engineering,2.35,4
+160186319,Yonas Haile,Civil Engineering,3.04,2
+160186320,Robel Desta,Physics,2.31,1
+160186321,Ermias Assefa,Electrical Engineering,2.56,5
+160186322,Meron Mengistu,Computer Science,3.23,4
+160186323,Rahel Tadesse,Software Engineering,3.85,4
+160186324,Henok Mulugeta,Computer Science,2.7,2
+160186325,Mikias Shiferaw,Civil Engineering,2.24,5
+160186326,Azeb Teshome,Physics,2.97,2
+160186327,Meron Kebede,Civil Engineering,2.65,2
+160186328,Liya Gebre,Mechanical Engine5ering,3.86,3
+160186329,Selam Shiferaw,Electrical Engineering,3.85,4
+160186330,Robel Wolde,Physics,2.01,2
+160186331,Dawit Girma,Computer Science,3.91,1
+160186332,Azeb Mengistu,Electrical Engineering,2.53,5
+160186333,Hiwot Mulugeta,Computer Science,2.2,4
+160186334,Fikirte Assefa,Mathematics,3.26,2
+160186335,Dawit Mulugeta,Software Engineering,3.52,4
+160186336,Amanuel Bekele,Physics,2.73,4
+160186337,Kaleb Demeke,Electrical Engineering,2.14,4
+160186338,Natnael Fekadu,Software Engineering,3.98,1
+160186339,Biruk Negash,Mathematics,2.88,5
+160186340,Dawit Haile,Computer Science,3.12,2
+160186341,Hiwot Demeke,Computer Science,3.77,3
+160186342,Meron Zeleke,Mechanical Engine5ering,2.54,1
+160186343,Kaleb Haile,Physics,2.63,4
+160186344,Eyob Desta,Mechanical Engine5ering,2.16,3
+160186345,Amanuel Teshome,Mechanical Engine5ering,3.57,5
+160186346,Fikirte Mengistu,Mathematics,2.86,1
+160186347,Yared Haile,Mathematics,2.29,3
+160186348,Ermias Lemma,Mathematics,2.49,4
+160186349,Kaleb Mekonnen,Mechanical Engine5ering,3.11,3
+160186350,Rahel Wolde,Software Engineering,3.88,4
+160186351,Bethlehem Teshome,Mechanical Engine5ering,2.88,4
+160186352,Amanuel Zeleke,Electrical Engineering,2.8,2
+160186353,Hiwot Bekele,Business Administration,3.24,2
+160186354,Azeb Fekadu,Mathematics,3.53,5
+160186355,Eyob Mekonnen,Mathematics,3.37,5
+160186356,Eyob Alemu,Software Engineering,3.68,2
+160186357,Natnael Wolde,Physics,3.77,3
+160186358,Robel Desta,Civil Engineering,3.83,4
+160186359,Rahel Yilma,Mechanical Engine5ering,3.73,3
+160186360,Fikirte Fekadu,Civil Engineering,2.7,5
+160186361,Natnael Negash,Civil Engineering,2.74,2
+160186362,Selamawit Demeke,Physics,3.12,5
+160186363,Abebe Zeleke,Mathematics,2.81,2
+160186364,Tsion Haile,Computer Science,3.08,3
+160186365,Natnael Assefa,Electrical Engineering,2.76,5
+160186366,Yared Fekadu,Electrical Engineering,3.39,3
+160186367,Bethlehem Abate,Physics,2.99,2
+160186368,Kidist Zeleke,Civil Engineering,2.14,2
+160186369,Azeb Shiferaw,Mathematics,3.22,2
+160186370,Kaleb Wolde,Physics,3.36,5
+160186371,Mikias Negash,Computer Science,3.05,1
+160186372,Robel Abate,Business Administration,3.65,3
+160186373,Mikias Gebre,Mathematics,2.87,2
+160186374,Selam Teshome,Software Engineering,3.35,3
+160186375,Kaleb Desta,Physics,2.75,4
+160186376,Kaleb Fekadu,Electrical Engineering,2.87,4
+160186377,Rahel Kebede,Physics,2.58,4
+160186378,Natnael Gebre,Mathematics,3.52,3
+160186379,Bethlehem Teshome,Software Engineering,3.91,1
+160186380,Selam Lemma,Mathematics,2.75,3
+160186381,Ermias Desta,Physics,2.36,4
+160186382,Yonas Girma,Computer Science,2.79,3
+160186383,Azeb Shiferaw,Civil Engineering,2.9,4
+160186384,Fikirte Tesfaye,Electrical Engineering,2.5,5
+160186385,Eyob Mulugeta,Business Administration,2.09,2
+160186386,Dawit Bekele,Computer Science,3.78,3
+160186387,Ermias Yilma,Physics,3.84,2
+160186388,Eyob Mekonnen,Mechanical Engine5ering,2.57,2
+160186389,Hiwot Negash,Physics,2.71,2
+160186390,Biruk Zeleke,Civil Engineering,3.97,4
+160186391,Tsion Lemma,Business Administration,2.37,5
+160186392,Tsion Tesfaye,Civil Engineering,3.36,4
+160186393,Selam Tadesse,Mechanical Engine5ering,2.91,3
+160186394,Biruk Getachew,Software Engineering,3.91,5
+160186395,Kidist Mulugeta,Mathematics,3.23,1
+160186396,Mikias Alemu,Civil Engineering,3.61,2
+160186397,Azeb Mekonnen,Electrical Engineering,2.04,2
+160186398,Liya Tadesse,Mechanical Engine5ering,2.05,4
+160186399,Meron Assefa,Civil Engineering,2.44,4
+160186400,Fikirte Getachew,Electrical Engineering,2.21,5
+160186401,Amanuel Worku,Electrical Engineering,2.41,1
+160186402,Robel Zeleke,Computer Science,2.39,4
+160186403,Tigist Desta,Computer Science,3.33,1
+160186404,Selamawit Zeleke,Physics,2.78,3
+160186405,Kaleb Mekonnen,Mechanical Engine5ering,4,3
+160186406,Mikias Tesfaye,Business Administration,3.73,2
+160186407,Robel Negash,Mathematics,3.22,2
+160186408,Tigist Mengistu,Business Administration,2.92,4
+160186409,Eyob Teshome,Civil Engineering,3.98,2
+160186410,Yonas Tadesse,Mechanical Engine5ering,2.07,4
+160186411,Mikias Teshome,Computer Science,2.97,2
+160186412,Azeb Negash,Physics,2.06,2
+160186413,Yonas Fekadu,Business Administration,2.8,3
+160186414,Henok Worku,Civil Engineering,2.5,4
+160186415,Azeb Worku,Mathematics,2.36,4
+160186416,Kaleb Shiferaw,Software Engineering,3.27,5
+160186417,Azeb Getachew,Physics,2.97,4
+160186418,Tigist Mengistu,Mechanical Engine5ering,3.06,1
+160186419,Abebe Getachew,Computer Science,2.81,5
+160186420,Tigist Gebre,Software Engineering,2.35,3
+160186421,Azeb Haile,Mechanical Engine5ering,3.97,2
+160186422,Meron Girma,Physics,2.56,2
+160186423,Tigist Worku,Electrical Engineering,3.32,4
+160186424,Amanuel Mulugeta,Mechanical Engine5ering,3.23,4
+160186425,Biruk Negash,Software Engineering,2.06,5
+160186426,Selamawit Zeleke,Electrical Engineering,2.16,4
+160186427,Tsion Assefa,Electrical Engineering,3.84,1
+160186428,Azeb Kebede,Civil Engineering,3.57,1
+160186429,Ermias Bekele,Computer Science,2.28,5
+160186430,Liya Bekele,Computer Science,3.79,1
+160186431,Bethlehem Alemu,Business Administration,3.48,1
+160186432,Natnael Wolde,Electrical Engineering,3.65,5
+160186433,Tsion Abate,Mathematics,2.58,4
+160186434,Hiwot Assefa,Civil Engineering,2.71,4
+160186435,Mikias Fekadu,Software Engineering,2.92,5
+160186436,Kidist Girma,Computer Science,3.78,5
+160186437,Dawit Assefa,Software Engineering,2.43,1
+160186438,Rahel Tadesse,Software Engineering,3,2
+160186439,Fikirte Fekadu,Civil Engineering,3.99,3
+160186440,Eyob Lemma,Civil Engineering,3.58,1
+160186441,Henok Haile,Electrical Engineering,3.46,4
+160186442,Fikirte Abate,Mechanical Engine5ering,3.75,1
+160186443,Natnael Gebre,Electrical Engineering,2.78,5
+160186444,Henok Getachew,Software Engineering,3.25,1
+160186445,Meron Mekonnen,Mathematics,2.34,2
+160186446,Abebe Abate,Software Engineering,2.5,5
+160186447,Mikias Yilma,Computer Science,3.08,1
+160186448,Tsion Mulugeta,Civil Engineering,2.54,2
+160186449,Yared Mekonnen,Mathematics,3.83,2
+160186450,Fikirte Kebede,Mechanical Engine5ering,3.73,4
+160186451,Biruk Mengistu,Mathematics,3.34,5
+160186452,Fikirte Fekadu,Software Engineering,2.75,2
+160186453,Yared Yilma,Civil Engineering,3.29,2
+160186454,Selam Yilma,Mathematics,3,2
+160186455,Natnael Tesfaye,Mechanical Engine5ering,3.63,4
+160186456,Mikias Girma,Mechanical Engine5ering,3.59,3
+160186457,Ermias Abate,Mechanical Engine5ering,3.87,5
+160186458,Rahel Desta,Civil Engineering,2.6,3
+160186459,Bethlehem Abate,Electrical Engineering,2.73,1
+160186460,Tigist Alemu,Computer Science,2.98,2
+160186461,Yared Girma,Mathematics,2.93,2
+160186462,Amanuel Fekadu,Business Administration,3.22,3
+160186463,Rahel Mulugeta,Mechanical Engine5ering,2.06,5
+160186464,Natnael Yilma,Civil Engineering,2.77,2
+160186465,Fikirte Haile,Computer Science,2.69,3
+160186466,Azeb Tesfaye,Electrical Engineering,3.19,2
+160186467,Henok Kebede,Civil Engineering,2.56,1
+160186468,Amanuel Worku,Computer Science,2.74,1
+160186469,Kaleb Alemu,Physics,2.49,1
+160186470,Henok Desta,Civil Engineering,2.63,3
+160186471,Tsion Alemu,Computer Science,3.34,3
+160186472,Rahel Teshome,Mathematics,3.93,1
+160186473,Selam Mekonnen,Mechanical Engine5ering,2.57,2
+160186474,Amanuel Kebede,Software Engineering,3.09,5
+160186475,Selamawit Assefa,Civil Engineering,2.3,4
+160186476,Meron Gebre,Mechanical Engine5ering,3.74,5
+160186477,Azeb Girma,Electrical Engineering,3.75,2
+160186478,Hiwot Haile,Business Administration,2.7,4
+160186479,Selam Fekadu,Business Administration,3.22,2
+160186480,Hiwot Mekonnen,Mathematics,3.66,1
+160186481,Robel Mekonnen,Software Engineering,2.5,4
+160186482,Hiwot Assefa,Computer Science,3.27,1
+160186483,Natnael Worku,Civil Engineering,3.8,1
+160186484,Natnael Abate,Mechanical Engine5ering,2.06,1
+160186485,Hiwot Assefa,Computer Science,3.55,3
+160186486,Yonas Worku,Physics,2.86,3
+160186487,Azeb Girma,Mathematics,2.83,3
+160186488,Henok Abate,Mechanical Engine5ering,3.27,1
+160186489,Eyob Getachew,Mechanical Engine5ering,3.86,5
+160186490,Amanuel Teshome,Mathematics,3.35,5
+160186491,Bethlehem Assefa,Physics,3.52,4
+160186492,Hiwot Kebede,Mechanical Engine5ering,2.63,2
+160186493,Eyob Worku,Electrical Engineering,2.14,2
+160186494,Kidist Teshome,Mathematics,3.24,2
+160186495,Selam Desta,Physics,2.61,3
+160186496,Kidist Bekele,Software Engineering,3.66,1
+160186497,Bethlehem Mengistu,Mechanical Engine5ering,3.51,3
+160186498,Bethlehem Worku,Mechanical Engine5ering,2.01,2
+160186499,Fikirte Lemma,Physics,2.46,1
+160186500,Selam Gebre,Computer Science,2.28,3
+160186501,Hiwot Zeleke,Business Administration,3.44,4
+160186502,Azeb Teshome,Mathematics,2.27,3
+160186503,Ermias Tadesse,Business Administration,2.05,5
+160186504,Selamawit Fekadu,Business Administration,2.73,5
+160186505,Rahel Wolde,Civil Engineering,2.91,5
+160186506,Kaleb Demeke,Computer Science,3.7,2
+160186507,Yonas Mulugeta,Business Administration,3.71,1
+160186508,Liya Gebre,Mathematics,3.58,4
+160186509,Yared Abate,Software Engineering,2.73,1
+160186510,Natnael Getachew,Civil Engineering,2.97,2
+160186511,Dawit Negash,Electrical Engineering,3.45,3
+160186512,Biruk Desta,Mathematics,3.37,2
+160186513,Dawit Demeke,Business Administration,2.79,3
+160186514,Tigist Getachew,Business Administration,2.26,4
+160186515,Tsion Yilma,Business Administration,2.13,2
+160186516,Eyob Getachew,Software Engineering,3.33,4
+160186517,Natnael Yilma,Mechanical Engine5ering,2.35,4
+160186518,Rahel Tesfaye,Business Administration,3.88,4
+160186519,Mikias Mekonnen,Business Administration,3,2
+160186520,Eyob Mulugeta,Electrical Engineering,2.85,5
+160186521,Natnael Mulugeta,Computer Science,3.56,5
+160186522,Kaleb Worku,Software Engineering,3.57,2
+160186523,Fikirte Shiferaw,Physics,3.18,5
+160186524,Rahel Assefa,Computer Science,2.05,2
+160186525,Tsion Zeleke,Business Administration,3.18,5
+160186526,Kaleb Tadesse,Civil Engineering,2.91,4
+160186527,Rahel Yilma,Physics,3.93,2
+160186528,Bethlehem Tesfaye,Business Administration,2.06,2
+160186529,Bethlehem Bekele,Mathematics,3.81,3
+160186530,Natnael Mekonnen,Mathematics,2.36,2
+160186531,Ermias Negash,Software Engineering,2.13,1
+160186532,Selamawit Alemu,Physics,3.87,4
+160186533,Biruk Negash,Business Administration,3.44,2
+160186534,Kaleb Worku,Software Engineering,3.82,4
+160186535,Henok Desta,Software Engineering,3.38,1
+160186536,Kidist Girma,Physics,2.28,2
+160186537,Dawit Tesfaye,Software Engineering,3.95,4
+160186538,Natnael Assefa,Physics,2.28,2
+160186539,Natnael Desta,Physics,2.78,2
+160186540,Selam Yilma,Electrical Engineering,3.66,3
+160186541,Yonas Demeke,Computer Science,3.94,1
+160186542,Selam Yilma,Mechanical Engine5ering,3.48,5
+160186543,Natnael Bekele,Software Engineering,2.81,1
+160186544,Ermias Kebede,Mechanical Engine5ering,2.36,3
+160186545,Tigist Abate,Mathematics,2.31,2
+160186546,Selamawit Abate,Software Engineering,2.66,1
+160186547,Kaleb Zeleke,Software Engineering,3.56,5
+160186548,Liya Girma,Computer Science,2.36,2
+160186549,Selam Haile,Electrical Engineering,2.42,2
+160186550,Selamawit Abate,Business Administration,2.03,4
+160186551,Kidist Getachew,Mathematics,2.49,1
+160186552,Tsion Alemu,Computer Science,2.55,4
+160186553,Robel Gebre,Civil Engineering,2.39,5
+160186554,Yared Demeke,Mechanical Engine5ering,3.73,5
+160186555,Mikias Yilma,Civil Engineering,2.04,5
+160186556,Henok Yilma,Business Administration,3.29,4
+160186557,Azeb Worku,Business Administration,2.09,2
+160186558,Bethlehem Worku,Physics,3.47,4
+160186559,Tigist Getachew,Business Administration,3.37,4
+160186560,Liya Worku,Civil Engineering,3.32,4
+160186561,Liya Teshome,Software Engineering,2.19,3
+160186562,Ermias Yilma,Mechanical Engine5ering,2.71,1
+160186563,Mikias Mekonnen,Physics,2.71,1
+160186564,Bethlehem Alemu,Civil Engineering,3.55,5
+160186565,Amanuel Assefa,Civil Engineering,3.59,2
+160186566,Tsion Girma,Computer Science,3.24,2
+160186567,Yonas Gebre,Electrical Engineering,2.94,1
+160186568,Liya Teshome,Business Administration,2.8,1
+160186569,Azeb Tesfaye,Business Administration,3.08,5
+160186570,Robel Assefa,Computer Science,2.98,3
+160186571,Henok Kebede,Software Engineering,2.6,1
+160186572,Hiwot Alemu,Physics,3.5,1
+160186573,Fikirte Bekele,Civil Engineering,2.97,2
+160186574,Azeb Girma,Business Administration,2.58,3
+160186575,Liya Mulugeta,Physics,2.9,2
+160186576,Mikias Tadesse,Mathematics,2.9,4
+160186577,Meron Mengistu,Mechanical Engine5ering,2.82,5
+160186578,Tsion Fekadu,Computer Science,3.53,2
+160186579,Yared Desta,Business Administration,2.94,1
+160186580,Fikirte Demeke,Civil Engineering,3.51,5
+160186581,Hiwot Shiferaw,Business Administration,3.3,1
+160186582,Biruk Desta,Computer Science,3.45,5
+160186583,Natnael Fekadu,Mechanical Engine5ering,2.25,1
+160186584,Meron Worku,Software Engineering,2.41,4
+160186585,Yared Fekadu,Civil Engineering,3.77,1
+160186586,Liya Tadesse,Mathematics,3.37,3
+160186587,Henok Getachew,Civil Engineering,2.08,5
+160186588,Ermias Tadesse,Business Administration,3.32,2
+160186589,Kaleb Alemu,Business Administration,3.98,1
+160186590,Natnael Mengistu,Software Engineering,2.35,4
+160186591,Azeb Girma,Software Engineering,2.65,5
+160186592,Selam Gebre,Mathematics,2.71,3
+160186593,Mikias Abate,Computer Science,3.3,4
+160186594,Liya Worku,Electrical Engineering,2.71,5
+160186595,Yonas Tesfaye,Mechanical Engine5ering,2.56,1
+160186596,Bethlehem Mulugeta,Physics,2.05,4
+160186597,Robel Worku,Business Administration,3.89,5
+160186598,Selam Assefa,Computer Science,2.86,2
+160186599,Tigist Gebre,Mechanical Engine5ering,2.87,4
+160186600,Kidist Worku,Physics,3.98,4
+160186601,Selamawit Mengistu,Mechanical Engine5ering,3.67,3
+160186602,Fikirte Mekonnen,Physics,2.88,3
+160186603,Tigist Negash,Electrical Engineering,3.77,4
+160186604,Mikias Mulugeta,Civil Engineering,3.19,1
+160186605,Rahel Lemma,Electrical Engineering,2.35,4
+160186606,Natnael Mekonnen,Physics,2.78,1
+160186607,Ermias Lemma,Physics,3.57,1
+160186608,Rahel Wolde,Physics,2.88,4
+160186609,Hiwot Mulugeta,Mechanical Engine5ering,3.87,3
+160186610,Selamawit Getachew,Computer Science,2.99,5
+160186611,Ermias Desta,Civil Engineering,2.39,2
+160186612,Fikirte Mulugeta,Electrical Engineering,3.87,3
+160186613,Ermias Tadesse,Business Administration,3.49,4
+160186614,Tsion Mulugeta,Software Engineering,2.45,5
+160186615,Bethlehem Girma,Mechanical Engine5ering,3.6,1
+160186616,Ermias Kebede,Physics,2,5
+160186617,Hiwot Getachew,Mechanical Engine5ering,3.01,2
+160186618,Abebe Kebede,Computer Science,3.29,2
+160186619,Tsion Shiferaw,Computer Science,2.56,5
+160186620,Biruk Assefa,Electrical Engineering,3.54,5
+160186621,Fikirte Mulugeta,Mechanical Engine5ering,2.86,3
+160186622,Mikias Desta,Mathematics,3.22,2
+160186623,Hiwot Alemu,Physics,3.92,5
+160186624,Henok Gebre,Software Engineering,2.84,3
+160186625,Ermias Mekonnen,Electrical Engineering,3.73,3
+160186626,Tigist Girma,Mechanical Engine5ering,3.17,3
+160186627,Kaleb Mengistu,Mathematics,3.69,3
+160186628,Yonas Kebede,Electrical Engineering,2.88,4
+160186629,Natnael Kebede,Mathematics,3.44,5
+160186630,Meron Worku,Computer Science,3,4
+160186631,Kaleb Assefa,Mechanical Engine5ering,3.61,3
+160186632,Henok Yilma,Civil Engineering,3.39,1
+160186633,Natnael Lemma,Mechanical Engine5ering,2.99,3
+160186634,Yonas Worku,Computer Science,2.44,1
+160186635,Tigist Getachew,Mechanical Engine5ering,2.33,5
+160186636,Liya Gebre,Mechanical Engine5ering,3.64,1
+160186637,Mikias Mengistu,Electrical Engineering,3.55,2
+160186638,Amanuel Yilma,Mechanical Engine5ering,2.81,2
+160186639,Mikias Mengistu,Computer Science,3.22,4
+160186640,Amanuel Alemu,Mathematics,4,4
+160186641,Yared Shiferaw,Physics,2.94,3
+160186642,Selam Mengistu,Physics,2.6,3
+160186643,Kidist Lemma,Business Administration,3.61,1
+160186644,Tigist Assefa,Mechanical Engine5ering,3.29,1
+160186645,Biruk Shiferaw,Computer Science,2.42,4
+160186646,Meron Yilma,Electrical Engineering,3.54,2
+160186647,Dawit Negash,Mathematics,2.17,3
+160186648,Kidist Fekadu,Business Administration,2.62,2
+160186649,Liya Tesfaye,Physics,3.36,2
+160186650,Robel Mekonnen,Civil Engineering,3.47,3
+160186651,Biruk Wolde,Electrical Engineering,2.17,2
+160186652,Bethlehem Mekonnen,Civil Engineering,2.23,5
+160186653,Amanuel Gebre,Software Engineering,3.6,5
+160186654,Hiwot Yilma,Electrical Engineering,3.78,4
+160186655,Tigist Bekele,Civil Engineering,3.81,3
+160186656,Hiwot Alemu,Business Administration,2.36,2
+160186657,Mikias Tadesse,Electrical Engineering,3.94,5
+160186658,Yared Lemma,Physics,2.17,1
+160186659,Kidist Tesfaye,Physics,3.37,2
+160186660,Selamawit Alemu,Mechanical Engine5ering,2.16,4
+160186661,Rahel Demeke,Physics,2.02,2
+160186662,Tigist Alemu,Software Engineering,2.33,1
+160186663,Rahel Mengistu,Mechanical Engine5ering,2.18,2
+160186664,Mikias Getachew,Mathematics,2.11,2
+160186665,Liya Bekele,Business Administration,2.26,4
+160186666,Robel Tesfaye,Software Engineering,3.15,5
+160186667,Amanuel Tadesse,Business Administration,3.71,2
+160186668,Meron Tadesse,Electrical Engineering,2.44,5
+160186669,Robel Fekadu,Business Administration,2.97,2
+160186670,Rahel Demeke,Software Engineering,3.55,5
+160186671,Eyob Wolde,Mechanical Engine5ering,2.71,1
+160186672,Selamawit Tadesse,Mechanical Engine5ering,3.55,3
+160186673,Natnael Mengistu,Mathematics,3.48,3
+160186674,Hiwot Getachew,Mechanical Engine5ering,2.9,2
+160186675,Mikias Getachew,Software Engineering,3.6,2
+160186676,Hiwot Kebede,Physics,2.24,5
+160186677,Kidist Girma,Electrical Engineering,2.54,5
+160186678,Ermias Assefa,Software Engineering,3.4,4
+160186679,Liya Fekadu,Mechanical Engine5ering,2.23,2
+160186680,Azeb Negash,Mechanical Engine5ering,3.3,3
+160186681,Natnael Mekonnen,Software Engineering,3.98,1
+160186682,Fikirte Girma,Software Engineering,3.05,3
+160186683,Tsion Teshome,Physics,3.17,5
+160186684,Robel Assefa,Electrical Engineering,2.36,2
+160186685,Mikias Wolde,Mechanical Engine5ering,2.15,4
+160186686,Abebe Mulugeta,Electrical Engineering,2.1,5
+160186687,Kaleb Mekonnen,Mathematics,3.34,3
+160186688,Meron Haile,Civil Engineering,3.38,2
+160186689,Dawit Worku,Electrical Engineering,2.36,1
+160186690,Tigist Mengistu,Mathematics,2.83,4
+160186691,Hiwot Mekonnen,Mathematics,2.41,5
+160186692,Fikirte Lemma,Mechanical Engine5ering,2.65,3
+160186693,Biruk Mekonnen,Computer Science,2.63,3
+160186694,Natnael Fekadu,Mathematics,3.62,4
+160186695,Eyob Alemu,Computer Science,2.02,4
+160186696,Hiwot Kebede,Mechanical Engine5ering,3.05,4
+160186697,Kaleb Mengistu,Software Engineering,2.64,4
+160186698,Yared Haile,Mechanical Engine5ering,3.82,5
+160186699,Abebe Mengistu,Physics,2.85,2
+160186700,Selam Mulugeta,Electrical Engineering,3.82,1
+160186701,Yared Assefa,Electrical Engineering,3.97,1
+160186702,Dawit Yilma,Mathematics,2.1,1
+160186703,Kaleb Alemu,Mathematics,3.29,2
+160186704,Selam Zeleke,Business Administration,2.6,1
+160186705,Kaleb Bekele,Computer Science,2.97,2
+160186706,Bethlehem Gebre,Business Administration,3.67,1
+160186707,Bethlehem Girma,Business Administration,2.88,4
+160186708,Eyob Mulugeta,Business Administration,3.82,5
+160186709,Meron Gebre,Physics,3.18,4
+160186710,Fikirte Alemu,Computer Science,2.96,4
+160186711,Natnael Demeke,Civil Engineering,2.38,1
+160186712,Henok Wolde,Electrical Engineering,2.71,5
+160186713,Fikirte Haile,Physics,2.05,3
+160186714,Kidist Alemu,Business Administration,2.37,3
+160186715,Tigist Girma,Software Engineering,3.12,1
+160186716,Selam Mekonnen,Mathematics,3.4,3
+160186717,Fikirte Teshome,Business Administration,3.31,5
+160186718,Liya Mulugeta,Computer Science,2.31,5
+160186719,Yonas Mekonnen,Business Administration,4,2
+160186720,Kaleb Wolde,Civil Engineering,3.8,3
+160186721,Tigist Yilma,Electrical Engineering,3.38,2
+160186722,Hiwot Mengistu,Mathematics,3.59,5
+160186723,Abebe Lemma,Civil Engineering,3.03,4
+160186724,Rahel Mengistu,Electrical Engineering,3.99,5
+160186725,Azeb Mekonnen,Civil Engineering,2.95,5
+160186726,Selamawit Abate,Civil Engineering,3.81,1
+160186727,Selam Assefa,Mathematics,2.92,2
+160186728,Azeb Zeleke,Civil Engineering,2.67,2
+160186729,Abebe Shiferaw,Business Administration,3.3,5
+160186730,Mikias Shiferaw,Electrical Engineering,2.35,5
+160186731,Rahel Bekele,Computer Science,2,3
+160186732,Meron Desta,Mechanical Engine5ering,2.71,4
+160186733,Kaleb Haile,Electrical Engineering,2.84,1
+160186734,Tsion Fekadu,Mathematics,3.75,2
+160186735,Natnael Fekadu,Mechanical Engine5ering,2.66,4
+160186736,Dawit Wolde,Business Administration,3.87,5
+160186737,Azeb Lemma,Physics,2.7,5
+160186738,Azeb Abate,Mathematics,3.94,3
+160186739,Tigist Desta,Civil Engineering,3.4,1
+160186740,Kidist Shiferaw,Mathematics,3.98,1
+160186741,Azeb Mulugeta,Computer Science,2.52,1
+160186742,Yared Demeke,Business Administration,3.25,3
+160186743,Yared Mengistu,Software Engineering,3.69,5
+160186744,Yonas Tadesse,Software Engineering,3.25,2
+160186745,Tigist Zeleke,Civil Engineering,2.58,5
+160186746,Kaleb Fekadu,Computer Science,3.01,1
+160186747,Yonas Tesfaye,Civil Engineering,3.03,4
+160186748,Biruk Mekonnen,Mathematics,3.66,5
+160186749,Kaleb Wolde,Business Administration,2.84,4
+160186750,Tsion Demeke,Civil Engineering,2.85,1
+160186751,Amanuel Assefa,Computer Science,3.73,3
+160186752,Yonas Zeleke,Mathematics,3.08,5
+160186753,Meron Haile,Computer Science,3.25,3
+160186754,Ermias Lemma,Computer Science,2.02,4
+160186755,Yonas Worku,Physics,2.9,1
+160186756,Kidist Mengistu,Software Engineering,2.26,3
+160186757,Selam Mekonnen,Physics,3.8,2
+160186758,Hiwot Bekele,Computer Science,2.13,5
+160186759,Azeb Bekele,Mechanical Engine5ering,3.15,5
+160186760,Rahel Tesfaye,Computer Science,3.28,1
+160186761,Natnael Haile,Mechanical Engine5ering,3.17,2
+160186762,Amanuel Worku,Mathematics,3.89,1
+160186763,Azeb Mengistu,Mechanical Engine5ering,2.99,4
+160186764,Dawit Mekonnen,Business Administration,2.75,5
+160186765,Henok Getachew,Business Administration,2.77,1
+160186766,Amanuel Haile,Physics,3.95,2
+160186767,Henok Girma,Software Engineering,2.93,5
+160186768,Yonas Teshome,Civil Engineering,3.69,4
+160186769,Liya Getachew,Computer Science,3.95,4
+160186770,Yared Yilma,Business Administration,3.82,2
+160186771,Biruk Worku,Business Administration,2.52,5
+160186772,Mikias Tadesse,Mechanical Engine5ering,3.24,2
+160186773,Fikirte Desta,Physics,3.89,4
+160186774,Tigist Tadesse,Business Administration,3.57,1
+160186775,Robel Mulugeta,Physics,3.66,1
+160186776,Fikirte Worku,Business Administration,3.01,1
+160186777,Mikias Gebre,Mathematics,2.71,3
+160186778,Rahel Mulugeta,Mathematics,3.66,3
+160186779,Bethlehem Haile,Business Administration,3.48,5
+160186780,Yonas Desta,Mechanical Engine5ering,2.16,1
+160186781,Amanuel Tadesse,Civil Engineering,3.35,5
+160186782,Yared Negash,Business Administration,2.21,4
+160186783,Mikias Kebede,Electrical Engineering,2.84,4
+160186784,Tsion Getachew,Electrical Engineering,2.56,2
+160186785,Yonas Assefa,Software Engineering,2.27,2
+160186786,Selamawit Assefa,Mathematics,2.85,2
+160186787,Tigist Haile,Software Engineering,3.14,2
+160186788,Tigist Abate,Civil Engineering,2.38,2
+160186789,Azeb Bekele,Mechanical Engine5ering,2.79,2
+160186790,Kidist Haile,Business Administration,3.89,5
+160186791,Tsion Getachew,Mathematics,3.44,5
+160186792,Meron Girma,Electrical Engineering,2.76,1
+160186793,Biruk Abate,Mechanical Engine5ering,3.31,3
+160186794,Hiwot Mekonnen,Mathematics,2.72,1
+160186795,Liya Zeleke,Business Administration,3,1
+160186796,Tigist Bekele,Physics,2.22,4
+160186797,Selam Kebede,Electrical Engineering,3.92,1
+160186798,Kaleb Tesfaye,Electrical Engineering,2.35,1
+160186799,Kidist Getachew,Physics,2.69,5
+160186800,Selam Tadesse,Physics,2.13,3
+160186801,Fikirte Lemma,Physics,3.93,1
+160186802,Tigist Gebre,Electrical Engineering,2.75,3
+160186803,Henok Demeke,Software Engineering,3.11,2
+160186804,Selamawit Gebre,Computer Science,2.8,5
+160186805,Fikirte Mulugeta,Mechanical Engine5ering,3.29,4
+160186806,Selamawit Worku,Software Engineering,3.27,1
+160186807,Eyob Lemma,Computer Science,2.18,2
+160186808,Ermias Demeke,Mechanical Engine5ering,3.69,1
+160186809,Selam Kebede,Business Administration,3.21,2
+160186810,Hiwot Demeke,Mechanical Engine5ering,2.17,1
+160186811,Abebe Bekele,Electrical Engineering,2.35,2
+160186812,Kidist Kebede,Business Administration,2.49,4
+160186813,Azeb Girma,Computer Science,2.52,3
+160186814,Robel Bekele,Mechanical Engine5ering,3.16,3
+160186815,Mikias Alemu,Software Engineering,2.12,1
+160186816,Natnael Mengistu,Software Engineering,3.14,5
+160186817,Robel Kebede,Mathematics,2.57,3
+160186818,Selam Fekadu,Mathematics,2.13,4
+160186819,Abebe Worku,Physics,2.23,4
+160186820,Dawit Assefa,Software Engineering,4,5
+160186821,Azeb Wolde,Physics,2.56,1
+160186822,Ermias Assefa,Computer Science,2.62,3
+160186823,Kaleb Demeke,Computer Science,2.96,1
+160186824,Dawit Mekonnen,Mathematics,2.64,3
+160186825,Bethlehem Getachew,Business Administration,2.61,2
+160186826,Abebe Abate,Electrical Engineering,2.37,2
+160186827,Fikirte Wolde,Physics,2.68,1
+160186828,Hiwot Negash,Electrical Engineering,2.15,4
+160186829,Henok Tesfaye,Electrical Engineering,3.41,4
+160186830,Yared Lemma,Business Administration,2.72,1
+160186831,Selamawit Worku,Physics,2.94,3
+160186832,Kaleb Mekonnen,Computer Science,3.06,5
+160186833,Biruk Desta,Software Engineering,3.75,2
+160186834,Yared Fekadu,Mathematics,3.24,1
+160186835,Henok Tadesse,Mathematics,3.39,5
+160186836,Meron Negash,Mechanical Engine5ering,2.58,3
+160186837,Mikias Shiferaw,Electrical Engineering,3.91,1
+160186838,Rahel Kebede,Mathematics,2.13,4
+160186839,Hiwot Lemma,Physics,3.71,5
+160186840,Mikias Mulugeta,Software Engineering,2.76,1
+160186841,Amanuel Lemma,Mechanical Engine5ering,3.11,4
+160186842,Liya Lemma,Computer Science,3.74,4
+160186843,Selamawit Girma,Civil Engineering,2.99,5
+160186844,Eyob Tadesse,Civil Engineering,3.02,2
+160186845,Rahel Mengistu,Business Administration,2.94,2
+160186846,Amanuel Worku,Mathematics,2.67,5
+160186847,Mikias Wolde,Mechanical Engine5ering,2.86,5
+160186848,Eyob Assefa,Software Engineering,3.4,3
+160186849,Bethlehem Yilma,Civil Engineering,2.34,5
+160186850,Tigist Mengistu,Software Engineering,2.91,1
+160186851,Mikias Bekele,Business Administration,2.18,1
+160186852,Selamawit Zeleke,Electrical Engineering,3.3,1
+160186853,Fikirte Yilma,Civil Engineering,2.6,2
+160186854,Selam Bekele,Civil Engineering,2.11,5
+160186855,Meron Abate,Mechanical Engine5ering,3.23,4
+160186856,Ermias Yilma,Physics,2.29,3
+160186857,Rahel Fekadu,Software Engineering,3.92,3
+160186858,Henok Kebede,Mechanical Engine5ering,3.58,2
+160186859,Dawit Tadesse,Computer Science,2.1,3
+160186860,Kaleb Mekonnen,Mathematics,2.21,4
+160186861,Selamawit Getachew,Civil Engineering,3.22,5
+160186862,Hiwot Tesfaye,Electrical Engineering,3.23,3
+160186863,Ermias Fekadu,Physics,3.21,1
+160186864,Hiwot Demeke,Computer Science,3.89,3
+160186865,Meron Demeke,Civil Engineering,2.59,1
+160186866,Biruk Teshome,Software Engineering,3.06,3
+160186867,Natnael Negash,Business Administration,3,2
+160186868,Hiwot Wolde,Software Engineering,3.26,1
+160186869,Natnael Tadesse,Mathematics,3.69,4
+160186870,Natnael Fekadu,Software Engineering,3.86,1
+160186871,Abebe Lemma,Physics,2.92,3
+160186872,Biruk Teshome,Mathematics,3.39,2
+160186873,Mikias Haile,Business Administration,3.14,2
+160186874,Selam Tesfaye,Mathematics,2.63,3
+160186875,Kidist Girma,Computer Science,2.23,3
+160186876,Yonas Bekele,Physics,2.82,5
+160186877,Rahel Kebede,Software Engineering,2.02,4
+160186878,Biruk Yilma,Physics,3.79,4
+160186879,Biruk Haile,Mechanical Engine5ering,2.69,3
+160186880,Tigist Yilma,Computer Science,3.67,1
+160186881,Biruk Abate,Electrical Engineering,3.59,3
+160186882,Dawit Haile,Civil Engineering,3.58,5
+160186883,Dawit Fekadu,Software Engineering,2.43,3
+160186884,Amanuel Zeleke,Mechanical Engine5ering,3.21,1
+160186885,Robel Demeke,Electrical Engineering,3.5,4
+160186886,Amanuel Mengistu,Mathematics,2.23,4
+160186887,Tsion Shiferaw,Civil Engineering,2.37,3
+160186888,Biruk Alemu,Mechanical Engine5ering,2.69,3
+160186889,Biruk Girma,Civil Engineering,4,4
+160186890,Henok Tesfaye,Software Engineering,2.12,5
+160186891,Natnael Girma,Mechanical Engine5ering,2.82,3
+160186892,Robel Kebede,Mechanical Engine5ering,2.75,1
+160186893,Tsion Worku,Computer Science,2.36,1
+160186894,Biruk Lemma,Software Engineering,3.96,5
+160186895,Mikias Shiferaw,Computer Science,3.25,3
+160186896,Henok Worku,Mathematics,3.78,2
+160186897,Kidist Demeke,Business Administration,3.34,2
+160186898,Fikirte Teshome,Software Engineering,3.06,1
+160186899,Kaleb Mengistu,Physics,3.13,2
+160186900,Abebe Demeke,Physics,2.03,4
+160186901,Tsion Bekele,Physics,3.64,1
+160186902,Robel Gebre,Civil Engineering,2.47,3
+160186903,Yared Girma,Electrical Engineering,3.18,5
+160186904,Biruk Zeleke,Mechanical Engine5ering,2.35,5
+160186905,Liya Tadesse,Mathematics,2.1,3
+160186906,Selam Girma,Business Administration,2.26,1
+160186907,Kaleb Abate,Electrical Engineering,2.3,5
+160186908,Dawit Zeleke,Software Engineering,3.54,1
+160186909,Selamawit Mengistu,Computer Science,2.31,1
+160186910,Tigist Kebede,Business Administration,3.87,5
+160186911,Yared Alemu,Computer Science,3.72,1
+160186912,Azeb Fekadu,Civil Engineering,3.95,4
+160186913,Meron Fekadu,Physics,2.29,3
+160186914,Kaleb Tesfaye,Electrical Engineering,3.6,3
+160186915,Tigist Getachew,Electrical Engineering,3.74,1
+160186916,Yonas Tadesse,Electrical Engineering,3.46,4
+160186917,Tigist Haile,Software Engineering,2.62,5
+160186918,Selamawit Tadesse,Software Engineering,3.09,4
+160186919,Ermias Abate,Mechanical Engine5ering,2.81,2
+160186920,Dawit Gebre,Mechanical Engine5ering,2.49,5
+160186921,Kidist Getachew,Mechanical Engine5ering,3.59,2
+160186922,Biruk Fekadu,Computer Science,3.09,3
+160186923,Robel Alemu,Mathematics,3.82,2
+160186924,Natnael Alemu,Computer Science,2.85,1
+160186925,Robel Lemma,Software Engineering,2.74,2
+160186926,Selamawit Zeleke,Software Engineering,3.36,1
+160186927,Meron Desta,Civil Engineering,3.5,4
+160186928,Mikias Tadesse,Computer Science,3.49,1
+160186929,Dawit Abate,Software Engineering,3.08,4
+160186930,Natnael Bekele,Physics,3.43,5
+160186931,Tsion Getachew,Electrical Engineering,2.37,1
+160186932,Selamawit Wolde,Computer Science,2.98,1
+160186933,Robel Alemu,Civil Engineering,3.62,4
+160186934,Azeb Kebede,Business Administration,2.26,1
+160186935,Bethlehem Demeke,Software Engineering,2.13,2
+160186936,Eyob Alemu,Software Engineering,2.16,5
+160186937,Natnael Fekadu,Civil Engineering,2.64,4
+160186938,Kaleb Tadesse,Mechanical Engine5ering,3.31,5
+160186939,Abebe Haile,Physics,2.89,2
+160186940,Yonas Mekonnen,Business Administration,3.58,5
+160186941,Mikias Alemu,Computer Science,3.11,3
+160186942,Dawit Negash,Software Engineering,2.38,3
+160186943,Amanuel Negash,Mechanical Engine5ering,2.48,1
+160186944,Tigist Zeleke,Computer Science,3.92,1
+160186945,Abebe Abate,Mechanical Engine5ering,2.4,1
+160186946,Bethlehem Kebede,Mechanical Engine5ering,3.71,1
+160186947,Tigist Girma,Computer Science,2.47,5
+160186948,Fikirte Fekadu,Computer Science,2.32,5
+160186949,Tigist Fekadu,Mathematics,2.29,2
+160186950,Tsion Zeleke,Software Engineering,2.93,1
+160186951,Robel Demeke,Electrical Engineering,3.41,1
+160186952,Ermias Bekele,Mathematics,3.99,2
+160186953,Henok Haile,Electrical Engineering,3.38,3
+160186954,Yonas Zeleke,Physics,2.76,5
+160186955,Hiwot Fekadu,Software Engineering,3.36,1
+160186956,Selamawit Mulugeta,Software Engineering,2.27,2
+160186957,Selam Fekadu,Electrical Engineering,3.19,5
+160186958,Abebe Getachew,Computer Science,2,5
+160186959,Kaleb Mekonnen,Software Engineering,2.64,3
+160186960,Azeb Kebede,Electrical Engineering,3.65,4
+160186961,Amanuel Desta,Software Engineering,2.67,1
+160186962,Tigist Bekele,Civil Engineering,3.39,5
+160186963,Dawit Teshome,Software Engineering,2.64,1
+160186964,Kidist Assefa,Mathematics,2.65,3
+160186965,Fikirte Yilma,Mathematics,2.46,3
+160186966,Natnael Mekonnen,Software Engineering,3.5,1
+160186967,Tsion Shiferaw,Electrical Engineering,3.88,5
+160186968,Azeb Alemu,Civil Engineering,2.97,1
+160186969,Kaleb Girma,Physics,3.49,1
+160186970,Mikias Assefa,Electrical Engineering,3.63,4
+160186971,Hiwot Kebede,Computer Science,3.05,2
+160186972,Kaleb Abate,Physics,2.09,5
+160186973,Meron Bekele,Physics,2.78,3
+160186974,Ermias Mekonnen,Software Engineering,3,2
+160186975,Hiwot Mulugeta,Mechanical Engine5ering,3.92,1
+160186976,Yonas Assefa,Software Engineering,2.88,5
+160186977,Biruk Mulugeta,Physics,3.79,2
+160186978,Yared Mulugeta,Mathematics,3.83,4
+160186979,Mikias Abate,Physics,2.29,5
+160186980,Selamawit Yilma,Mathematics,2.84,3
+160186981,Mikias Mekonnen,Business Administration,3.85,2
+160186982,Hiwot Getachew,Computer Science,2.34,2
+160186983,Yonas Yilma,Software Engineering,3.54,1
+160186984,Bethlehem Alemu,Mathematics,3.28,1
+160186985,Yonas Worku,Mechanical Engine5ering,3.96,2
+160186986,Dawit Worku,Computer Science,2.62,3
+160186987,Dawit Negash,Electrical Engineering,3.39,1
+160186988,Kaleb Abate,Physics,3.48,4
+160186989,Henok Getachew,Physics,3.49,4
+160186990,Tsion Demeke,Mechanical Engine5ering,2.7,5
+160186991,Yared Girma,Business Administration,3.92,3
+160186992,Dawit Mengistu,Computer Science,2.36,2
+160186993,Hiwot Yilma,Mechanical Engine5ering,2.89,3
+160186994,Robel Getachew,Physics,3.49,5
+160186995,Robel Mulugeta,Physics,3.41,3
+160186996,Henok Haile,Mathematics,2.49,1
+160186997,Abebe Shiferaw,Business Administration,3.92,2
+160186998,Hiwot Haile,Physics,2.83,2
+160186999,Henok Desta,Mathematics,3.01,5
+16098100,haile,Civil Engineering,3,5

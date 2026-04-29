@@ -49,8 +49,14 @@ g++ -std=c++11 -Iinclude -o student_system src/main.cpp src/HashTable.cpp src/Li
 ./student_system
 ```
 
-### Windows (MinGW)
-```bash
+### Windows (PowerShell/MinGW)
+```powershell
+g++ -std=c++11 -Iinclude -o student_system.exe src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
+./student_system.exe
+```
+
+### Windows (CMD)
+```cmd
 g++ -std=c++11 -Iinclude -o student_system.exe src/main.cpp src/HashTable.cpp src/LinearSearch.cpp src/DataGenerator.cpp
 student_system.exe
 ```
@@ -122,7 +128,8 @@ The load factor α = n/m significantly affects performance:
 - Last names: Tadesse, Bekele, Haile, Gebremichael, Tsegay, Abraha, Kiros, Berhane...
 - Size: 1,000 records
 - Format: CSV (StudentID, Name, Department, CGPA, Year)
-- IDs: 8-digit Aksum University format (16000000–16009999)
+- IDs: 9-digit Aksum University format (160186000–160186999)
+- ID Pattern: 160186XXX (sequential from 000 to 999)
 - Departments: 8 fields offered at Aksum University
 
 ## Sample Output

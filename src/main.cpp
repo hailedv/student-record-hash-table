@@ -1,6 +1,6 @@
 /*
  * ================================================================
- *  AKSUM UNIVERSITY — STUDENT RECORD MANAGEMENT SYSTEM
+ *  AKSUM UNIVERSITY - STUDENT RECORD MANAGEMENT SYSTEM
  *  Department of Computer Science & Software Engineering
  *  Course   : Design and Analysis of Algorithms
  *  Topic    : Hashing with Collision Handling (Chaining)
@@ -25,7 +25,7 @@
 using namespace std;
 using namespace chrono;
 
-// ── ANSI Color Codes ─────────────────────────────────────────
+// -- ANSI Color Codes -----------------------------------------
 #define RESET   "\033[0m"
 #define BOLD    "\033[1m"
 #define RED     "\033[31m"
@@ -41,7 +41,7 @@ using namespace chrono;
 #define BBLUE   "\033[1;34m"
 #define BWHITE  "\033[1;37m"
 
-// ── UI Helpers ───────────────────────────────────────────────
+// -- UI Helpers -----------------------------------------------
 void printLine(char c = '=', int w = 66) {
     cout << "  " << string(w, c) << "\n";
 }
@@ -51,14 +51,14 @@ void printHeader() {
     printLine('=');
     cout << BBLUE;
     cout << "  ||                                                              ||\n";
-    cout << "  ||        AKSUM UNIVERSITY — STUDENT RECORD SYSTEM             ||\n";
+    cout << "  ||        AKSUM UNIVERSITY - STUDENT RECORD SYSTEM             ||\n";
     cout << "  ||        Department of CS & Software Engineering              ||\n";
     cout << "  ||        Design and Analysis of Algorithms  |  2026           ||\n";
     cout << "  ||                                                              ||\n";
     cout << RESET;
     printLine('=');
     cout << CYAN << "  Hash Function : h(key) = key mod m  (Division Method)\n";
-    cout << "  Collision Res.: Chaining — Array of Linked Lists\n" << RESET;
+    cout << "  Collision Res.: Chaining - Array of Linked Lists\n" << RESET;
     printLine('-');
 }
 
@@ -74,7 +74,7 @@ void printError  (const string& msg) { cout << RED     << "  [ERR] "<< RESET << 
 void printInfo   (const string& msg) { cout << CYAN    << "  [i]  " << RESET << msg << "\n"; }
 void printWarn   (const string& msg) { cout << BYELLOW << "  [!]  " << RESET << msg << "\n"; }
 
-// ── Prime Helpers ────────────────────────────────────────────
+// -- Prime Helpers --------------------------------------------
 bool isPrime(int n) {
     if (n <= 1) return false;
     if (n <= 3) return true;
@@ -85,7 +85,26 @@ bool isPrime(int n) {
 }
 int getNextPrime(int n) { while (!isPrime(n)) n++; return n; }
 
-// ── CSV Loaders ──────────────────────────────────────────────
+// -- CSV Loaders ----------------------------------------------
+void appendStudentToCSV(const string& filename, const Student& student) {
+    ofstream file(filename, ios::app);
+    if (file.is_open()) {
+        file << student.id << "," << student.name << "," 
+             << student.department << "," << student.cgpa << "," 
+             << student.year << "\n";
+        file.close();
+    }
+}
+
+void saveAllToCSV(const string& filename, HashTable& ht) {
+    ofstream file(filename);
+    if (file.is_open()) {
+        file << "StudentID,Name,Department,CGPA,Year\n";
+        // Export all records from hash table
+        ht.exportToFile(filename);
+        file.close();
+    }
+}
 int loadFromCSV(const string& filename, HashTable& ht, LinearSearch& ls) {
     ifstream file(filename);
     if (!file.is_open()) { printError("Cannot open: " + filename); return 0; }
@@ -124,7 +143,7 @@ int readKeysFromCSV(const string& filename, int* keys, int maxCount) {
     return count;
 }
 
-// ── Input Validation ─────────────────────────────────────────
+// -- Input Validation -----------------------------------------
 int readValidatedID() {
     int id;
     while (true) {
@@ -161,7 +180,7 @@ int readValidatedYear() {
     return year;
 }
 
-// ── Manual Student Entry ─────────────────────────────────────
+// -- Manual Student Entry -------------------------------------
 int inputStudentsFromUser(const string& filename) {
     ofstream file(filename);
     if (!file.is_open()) { printError("Cannot create file."); return 0; }
@@ -230,7 +249,7 @@ int inputStudentsFromUser(const string& filename) {
     return n;
 }
 
-// ── Display Student Row ───────────────────────────────────────
+// -- Display Student Row --------------------------------------
 void printStudentRow(const Student* s) {
     cout << "  " << BGREEN << left
          << setw(12) << s->id
@@ -251,7 +270,7 @@ void printTableHeader() {
     printLine('-');
 }
 
-// ── Performance Test ─────────────────────────────────────────
+// -- Performance Test ---------------------------------------------
 void performanceTest(HashTable& ht, LinearSearch& ls,
                      int* testKeys, int numTests, const string& label) {
     cout << "\n  " << BCYAN << label << RESET << "\n";
@@ -295,9 +314,9 @@ void performanceTest(HashTable& ht, LinearSearch& ls,
         cout << "  " << BYELLOW << "Speedup: Hash table sub-microsecond" << RESET << "\n";
 }
 
-// ── Worst Case Simulation ────────────────────────────────────
+// -- Worst Case Simulation ----------------------------------------
 void worstCaseSimulation(int tableSize, int numTests) {
-    cout << "\n  " << BCYAN << "True Worst Case — All " << numTests
+    cout << "\n  " << BCYAN << "True Worst Case - All " << numTests
          << " keys forced to slot 0" << RESET << "\n";
     printLine('-', 62);
 
@@ -332,14 +351,14 @@ void worstCaseSimulation(int tableSize, int numTests) {
     cout << "  Chain length = " << numTests << " (all keys in one slot)\n";
     cout << "  " << BGREEN << "Hash Table    : " << RESET << htTime << " us  | found: " << htFound << "\n";
     cout << "  Linear Search : " << lsTime << " us  | found: " << lsFound << "\n";
-    printWarn("HT degrades to O(n) when all keys collide — chain = n");
+    printWarn("HT degrades to O(n) when all keys collide - chain = n");
 
     delete[] keys; delete[] searchKeys;
 }
 
-// ── Load Factor Experiment ───────────────────────────────────
+// -- Load Factor Experiment ---------------------------------------
 void loadFactorExperiment(const string& filename, int totalRecords) {
-    printSectionTitle("LOAD FACTOR DEGRADATION EXPERIMENT  —  Theta(1 + alpha)");
+    printSectionTitle("LOAD FACTOR DEGRADATION EXPERIMENT  -  Theta(1 + alpha)");
     cout << "  " << BWHITE << left
          << setw(8)  << "n"
          << setw(8)  << "m"
@@ -403,15 +422,15 @@ void loadFactorExperiment(const string& filename, int totalRecords) {
     printInfo("As n grows, HT time stays ~constant. Linear search grows O(n).");
 }
 
-// ── Math Analysis ────────────────────────────────────────────
+// -- Math Analysis ------------------------------------------------
 void printMathAnalysis(double alpha, int n, int m) {
-    printSectionTitle("MATHEMATICAL ANALYSIS  —  Theta(1 + alpha)");
+    printSectionTitle("MATHEMATICAL ANALYSIS  -  Theta(1 + alpha)");
     cout << "  Hash Function  : " << BCYAN << "h(key) = key mod m" << RESET << "  (Division Method)\n";
     cout << "  Collision Res. : Chaining (array of linked lists)\n";
     cout << "  n = " << BGREEN << n << RESET << " elements,  m = " << BGREEN << m << RESET << " slots\n";
     cout << "  Load factor    : " << BYELLOW << "alpha = " << n << "/" << m
          << " = " << fixed << setprecision(4) << alpha << RESET << "\n\n";
-    cout << "  THEOREM (CLRS Ch.11 — Simple Uniform Hashing + Chaining):\n";
+    cout << "  THEOREM (CLRS Ch.11 - Simple Uniform Hashing + Chaining):\n";
     printLine('-', 62);
     cout << "  Unsuccessful search : Theta(1 + alpha)\n";
     cout << "    O(1) hash compute + traverse full chain (avg len = alpha)\n\n";
@@ -424,11 +443,11 @@ void printMathAnalysis(double alpha, int n, int m) {
     cout << "  Linear search is always " << RED << "Theta(n)" << RESET << " regardless of input.\n";
 }
 
-// ── Menu ─────────────────────────────────────────────────────
+// -- Menu ---------------------------------------------------------
 void printMenu() {
     cout << "\n";
     printLine('=');
-    cout << BBLUE << "  ||          AKSUM UNIVERSITY — MAIN MENU                        ||\n" << RESET;
+    cout << BBLUE << "  ||          AKSUM UNIVERSITY - MAIN MENU                        ||\n" << RESET;
     printLine('=');
     cout << BCYAN  << "  [1]" << RESET << "  Search student by ID\n";
     cout << BCYAN  << "  [2]" << RESET << "  Search student by Name\n";
@@ -437,8 +456,8 @@ void printMenu() {
     cout << BCYAN  << "  [5]" << RESET << "  Delete student record\n";
     printLine('-', 40);
     cout << BYELLOW << "  [6]" << RESET << "  Display hash table (first 20 slots)\n";
-    cout << BYELLOW << "  [7]" << RESET << "  Display all students — sorted by CGPA\n";
-    cout << BYELLOW << "  [8]" << RESET << "  Display all students — sorted by ID\n";
+    cout << BYELLOW << "  [7]" << RESET << "  Display all students - sorted by CGPA\n";
+    cout << BYELLOW << "  [8]" << RESET << "  Display all students - sorted by ID\n";
     printLine('-', 40);
     cout << MAGENTA << "  [9]" << RESET << "  Statistics, analysis & collision histogram\n";
     cout << MAGENTA << "  [10]"<< RESET << " Export records / Rehash table\n";
@@ -448,7 +467,7 @@ void printMenu() {
     cout << BWHITE << "  Choose: " << RESET;
 }
 
-// ── MAIN ─────────────────────────────────────────────────────
+// -- MAIN ---------------------------------------------------------
 int main() {
     const string filename = "students.csv";
     const int MAX_RECORDS = 1000;
@@ -497,25 +516,25 @@ int main() {
     int  numTests = (keyCount < 100) ? keyCount : 100;
     int* testKeys = new int[numTests];
 
-    printSectionTitle("PERFORMANCE COMPARISON — Hash Table vs Linear Search (" + to_string(numTests) + " searches)");
+    printSectionTitle("PERFORMANCE COMPARISON - Hash Table vs Linear Search (" + to_string(numTests) + " searches)");
 
     for (int i = 0; i < numTests; i++) testKeys[i] = allKeys[i];
     performanceTest(hashTable, linearSearch, testKeys, numTests,
-                    "Best Case   — keys at front of chain");
+                    "Best Case   - keys at front of chain");
 
     srand((unsigned int)time(0));
     for (int i = 0; i < numTests; i++) testKeys[i] = allKeys[rand() % keyCount];
     performanceTest(hashTable, linearSearch, testKeys, numTests,
-                    "Average Case — random existing keys");
+                    "Average Case - random existing keys");
 
     for (int i = 0; i < numTests; i++) testKeys[i] = 99999999 - i;
     performanceTest(hashTable, linearSearch, testKeys, numTests,
-                    "Worst Case  — keys NOT in table");
+                    "Worst Case  - keys NOT in table");
 
     worstCaseSimulation(tableSize, numTests);
     loadFactorExperiment(filename, NUM_RECORDS);
 
-    // ── Interactive Menu ──────────────────────────────────────
+    // -- Interactive Menu ------------------------------------------
     int menuChoice = -1;
     while (menuChoice != 0) {
         printMenu();
@@ -556,6 +575,8 @@ int main() {
 
         } else if (menuChoice == 3) {
             cout << CYAN << "  New Student ID (8-9 digits): " << RESET;
+            cout << BYELLOW << "\n  Hint: Aksum University IDs start from 16018600X\n" << RESET;
+            cout << CYAN << "  Enter ID: " << RESET;
             int id = readValidatedID();
             if (hashTable.search(id)) {
                 printWarn("ID " + to_string(id) + " already exists. Use Update [4] instead.");
@@ -571,8 +592,10 @@ int main() {
                 dept = (dc >= 1 && dc <= 8) ? depts[dc-1] : "Unknown";
                 cout << CYAN << "  CGPA (2.00-4.00): " << RESET; cgpa = readValidatedCGPA();
                 cout << CYAN << "  Year (1-5)      : " << RESET; year = readValidatedYear();
-                hashTable.insert(id, Student(id, name, dept, cgpa, year));
-                printSuccess("Student '" + name + "' inserted. Load factor: "
+                Student newStudent(id, name, dept, cgpa, year);
+                hashTable.insert(id, newStudent);
+                appendStudentToCSV(filename, newStudent);
+                printSuccess("Student '" + name + "' inserted and saved to CSV. Load factor: "
                     + to_string(hashTable.getLoadFactor()).substr(0,6));
             }
 
@@ -597,16 +620,18 @@ int main() {
                 cout << CYAN << "  New CGPA (2.00-4.00): " << RESET; cgpa = readValidatedCGPA();
                 cout << CYAN << "  New Year (1-5)      : " << RESET; year = readValidatedYear();
                 hashTable.updateRecord(id, Student(id, name, dept, cgpa, year));
-                printSuccess("Record updated successfully.");
+                hashTable.exportToFile(filename);
+                printSuccess("Record updated and saved to CSV successfully.");
             }
 
         } else if (menuChoice == 5) {
             cout << CYAN << "  Student ID to delete: " << RESET;
             int id = readValidatedID();
-            if (hashTable.deleteRecord(id))
-                printSuccess("Record deleted. Load factor: "
+            if (hashTable.deleteRecord(id)) {
+                hashTable.exportToFile(filename);
+                printSuccess("Record deleted and CSV updated. Load factor: "
                     + to_string(hashTable.getLoadFactor()).substr(0,6));
-            else
+            } else
                 printWarn("Student ID " + to_string(id) + " not found.");
 
         } else if (menuChoice == 6) {
